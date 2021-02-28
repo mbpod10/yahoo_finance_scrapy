@@ -1,0 +1,3386 @@
+[
+  {
+    "symbol": "BTC-USD",
+    "currency": "Bitcoin USD",
+    "($USD)price": "46,750.93",
+    "dollar_price_change": "+427.51",
+    "percentage_change": "+0.92%",
+    "market_capitalization": "871.463B",
+    "total_volume_in_all_currencies": "45.215B"
+  },
+  {
+    "symbol": "ETH-USD",
+    "currency": "Ethereum USD",
+    "($USD)price": "1,503.63",
+    "dollar_price_change": "+58.90",
+    "percentage_change": "+4.08%",
+    "market_capitalization": "172.69B",
+    "total_volume_in_all_currencies": "20.418B"
+  },
+  {
+    "symbol": "ADA-USD",
+    "currency": "Cardano USD",
+    "($USD)price": "1.3576",
+    "dollar_price_change": "+0.1157",
+    "percentage_change": "+9.31%",
+    "market_capitalization": "42.238B",
+    "total_volume_in_all_currencies": "19.804B"
+  },
+  {
+    "symbol": "BNB-USD",
+    "currency": "BinanceCoin USD",
+    "($USD)price": "228.70",
+    "dollar_price_change": "+6.34",
+    "percentage_change": "+2.85%",
+    "market_capitalization": "35.342B",
+    "total_volume_in_all_currencies": "2.785B"
+  },
+  {
+    "symbol": "USDT-USD",
+    "currency": "Tether USD",
+    "($USD)price": "1.0007",
+    "dollar_price_change": "+0.0012",
+    "percentage_change": "+0.12%",
+    "market_capitalization": "35.007B",
+    "total_volume_in_all_currencies": "93.494B"
+  },
+  {
+    "symbol": "DOT1-USD",
+    "currency": "Polkadot USD",
+    "($USD)price": "34.45",
+    "dollar_price_change": "+3.46",
+    "percentage_change": "+11.17%",
+    "market_capitalization": "31.483B",
+    "total_volume_in_all_currencies": "4.388B"
+  },
+  {
+    "symbol": "DOT2-USD",
+    "currency": "Polkadot USD",
+    "($USD)price": "31.71",
+    "dollar_price_change": "-2.73",
+    "percentage_change": "-7.92%",
+    "market_capitalization": "28.962B",
+    "total_volume_in_all_currencies": "5.131B"
+  },
+  {
+    "symbol": "XRP-USD",
+    "currency": "XRP USD",
+    "($USD)price": "0.4435",
+    "dollar_price_change": "+0.0156",
+    "percentage_change": "+3.66%",
+    "market_capitalization": "20.136B",
+    "total_volume_in_all_currencies": "4.804B"
+  },
+  {
+    "symbol": "LTC-USD",
+    "currency": "Litecoin USD",
+    "($USD)price": "173.40",
+    "dollar_price_change": "+3.26",
+    "percentage_change": "+1.91%",
+    "market_capitalization": "11.542B",
+    "total_volume_in_all_currencies": "4.988B"
+  },
+  {
+    "symbol": "LINK-USD",
+    "currency": "Chainlink USD",
+    "($USD)price": "27.07",
+    "dollar_price_change": "+2.09",
+    "percentage_change": "+8.37%",
+    "market_capitalization": "11.1B",
+    "total_volume_in_all_currencies": "1.798B"
+  },
+  {
+    "symbol": "XLM-USD",
+    "currency": "Stellar USD",
+    "($USD)price": "0.4546",
+    "dollar_price_change": "+0.0709",
+    "percentage_change": "+18.48%",
+    "market_capitalization": "10.24B",
+    "total_volume_in_all_currencies": "2.76B"
+  },
+  {
+    "symbol": "BCH-USD",
+    "currency": "BitcoinCash USD",
+    "($USD)price": "491.03",
+    "dollar_price_change": "+7.25",
+    "percentage_change": "+1.50%",
+    "market_capitalization": "9.166B",
+    "total_volume_in_all_currencies": "3.588B"
+  },
+  {
+    "symbol": "USDC-USD",
+    "currency": "USDCoin USD",
+    "($USD)price": "1.0000",
+    "dollar_price_change": "+0.0000",
+    "percentage_change": "+0.00%",
+    "market_capitalization": "8.658B",
+    "total_volume_in_all_currencies": "1.754B"
+  },
+  {
+    "symbol": "DOGE-USD",
+    "currency": "Dogecoin USD",
+    "($USD)price": "0.0501",
+    "dollar_price_change": "-0.0002",
+    "percentage_change": "-0.38%",
+    "market_capitalization": "6.439B",
+    "total_volume_in_all_currencies": "1.301B"
+  },
+  {
+    "symbol": "XEM-USD",
+    "currency": "NEM USD",
+    "($USD)price": "0.6134",
+    "dollar_price_change": "+0.1111",
+    "percentage_change": "+22.11%",
+    "market_capitalization": "5.521B",
+    "total_volume_in_all_currencies": "497.871M"
+  },
+  {
+    "symbol": "ATOM1-USD",
+    "currency": "Cosmos USD",
+    "($USD)price": "19.56",
+    "dollar_price_change": "+2.30",
+    "percentage_change": "+13.30%",
+    "market_capitalization": "4.128B",
+    "total_volume_in_all_currencies": "788.469M"
+  },
+  {
+    "symbol": "XMR-USD",
+    "currency": "Monero USD",
+    "($USD)price": "210.89",
+    "dollar_price_change": "+10.29",
+    "percentage_change": "+5.13%",
+    "market_capitalization": "3.764B",
+    "total_volume_in_all_currencies": "678.563M"
+  },
+  {
+    "symbol": "ATOM2-USD",
+    "currency": "Cosmos USD",
+    "($USD)price": "17.85",
+    "dollar_price_change": "-1.56",
+    "percentage_change": "-8.05%",
+    "market_capitalization": "3.767B",
+    "total_volume_in_all_currencies": "941.844M"
+  },
+  {
+    "symbol": "SOL2-USD",
+    "currency": "Solana USD",
+    "($USD)price": "14.36",
+    "dollar_price_change": "-1.60",
+    "percentage_change": "-10.03%",
+    "market_capitalization": "3.761B",
+    "total_volume_in_all_currencies": "286.37M"
+  },
+  {
+    "symbol": "SOL1-USD",
+    "currency": "Solana USD",
+    "($USD)price": "13.80",
+    "dollar_price_change": "-0.50",
+    "percentage_change": "-3.49%",
+    "market_capitalization": "3.614B",
+    "total_volume_in_all_currencies": "256.279M"
+  },
+  {
+    "symbol": "EOS-USD",
+    "currency": "EOS USD",
+    "($USD)price": "3.7601",
+    "dollar_price_change": "+0.1945",
+    "percentage_change": "+5.46%",
+    "market_capitalization": "3.576B",
+    "total_volume_in_all_currencies": "2.279B"
+  },
+  {
+    "symbol": "BSV-USD",
+    "currency": "BitcoinSV USD",
+    "($USD)price": "186.78",
+    "dollar_price_change": "+8.10",
+    "percentage_change": "+4.53%",
+    "market_capitalization": "3.486B",
+    "total_volume_in_all_currencies": "792.157M"
+  },
+  {
+    "symbol": "TRX-USD",
+    "currency": "TRON USD",
+    "($USD)price": "0.0474",
+    "dollar_price_change": "+0.0025",
+    "percentage_change": "+5.56%",
+    "market_capitalization": "3.397B",
+    "total_volume_in_all_currencies": "1.37B"
+  },
+  {
+    "symbol": "MIOTA-USD",
+    "currency": "IOTA USD",
+    "($USD)price": "1.1714",
+    "dollar_price_change": "+0.0757",
+    "percentage_change": "+6.90%",
+    "market_capitalization": "3.256B",
+    "total_volume_in_all_currencies": "126.012M"
+  },
+  {
+    "symbol": "THETA-USD",
+    "currency": "THETA USD",
+    "($USD)price": "3.1974",
+    "dollar_price_change": "+0.2292",
+    "percentage_change": "+7.72%",
+    "market_capitalization": "3.197B",
+    "total_volume_in_all_currencies": "84.462M"
+  },
+  {
+    "symbol": "XTZ-USD",
+    "currency": "Tezos USD",
+    "($USD)price": "3.7350",
+    "dollar_price_change": "+0.2803",
+    "percentage_change": "+8.11%",
+    "market_capitalization": "2.844B",
+    "total_volume_in_all_currencies": "492.506M"
+  },
+  {
+    "symbol": "VET-USD",
+    "currency": "VeChain USD",
+    "($USD)price": "0.0418",
+    "dollar_price_change": "+0.0029",
+    "percentage_change": "+7.47%",
+    "market_capitalization": "2.69B",
+    "total_volume_in_all_currencies": "461.976M"
+  },
+  {
+    "symbol": "NEO-USD",
+    "currency": "NEO USD",
+    "($USD)price": "38.08",
+    "dollar_price_change": "+1.05",
+    "percentage_change": "+2.83%",
+    "market_capitalization": "2.686B",
+    "total_volume_in_all_currencies": "762.332M"
+  },
+  {
+    "symbol": "LUNA2-USD",
+    "currency": "Terra USD",
+    "($USD)price": "6.046702",
+    "dollar_price_change": "-0.709209",
+    "percentage_change": "-10.50%",
+    "market_capitalization": "2.511B",
+    "total_volume_in_all_currencies": "247.699M"
+  },
+  {
+    "symbol": "LUNA1-USD",
+    "currency": "Terra USD",
+    "($USD)price": "6.088459",
+    "dollar_price_change": "+0.292928",
+    "percentage_change": "+5.05%",
+    "market_capitalization": "2.501B",
+    "total_volume_in_all_currencies": "133.364M"
+  },
+  {
+    "symbol": "EGLD-USD",
+    "currency": "Elrond USD",
+    "($USD)price": "137.92",
+    "dollar_price_change": "+20.09",
+    "percentage_change": "+17.05%",
+    "market_capitalization": "2.349B",
+    "total_volume_in_all_currencies": "344.745M"
+  },
+  {
+    "symbol": "CTC1-USD",
+    "currency": "Creditcoin USD",
+    "($USD)price": "4.0720",
+    "dollar_price_change": "+0.9176",
+    "percentage_change": "+29.09%",
+    "market_capitalization": "2.301B",
+    "total_volume_in_all_currencies": "27.875M"
+  },
+  {
+    "symbol": "ALGO-USD",
+    "currency": "Algorand USD",
+    "($USD)price": "1.1188",
+    "dollar_price_change": "+0.1559",
+    "percentage_change": "+16.20%",
+    "market_capitalization": "2.26B",
+    "total_volume_in_all_currencies": "515.185M"
+  },
+  {
+    "symbol": "DASH-USD",
+    "currency": "Dash USD",
+    "($USD)price": "214.06",
+    "dollar_price_change": "+7.30",
+    "percentage_change": "+3.53%",
+    "market_capitalization": "2.141B",
+    "total_volume_in_all_currencies": "1.062B"
+  },
+  {
+    "symbol": "AVAX-USD",
+    "currency": "Avalanche USD",
+    "($USD)price": "26.28",
+    "dollar_price_change": "+0.54",
+    "percentage_change": "+2.08%",
+    "market_capitalization": "2.022B",
+    "total_volume_in_all_currencies": "157.361M"
+  },
+  {
+    "symbol": "KSM-USD",
+    "currency": "Kusama USD",
+    "($USD)price": "231.88",
+    "dollar_price_change": "+15.95",
+    "percentage_change": "+7.39%",
+    "market_capitalization": "1.964B",
+    "total_volume_in_all_currencies": "195.668M"
+  },
+  {
+    "symbol": "CTC2-USD",
+    "currency": "Creditcoin USD",
+    "($USD)price": "3.3182",
+    "dollar_price_change": "+0.0743",
+    "percentage_change": "+2.29%",
+    "market_capitalization": "1.875B",
+    "total_volume_in_all_currencies": "27.232M"
+  },
+  {
+    "symbol": "CTC3-USD",
+    "currency": "Creditcoin USD",
+    "($USD)price": "3.2897",
+    "dollar_price_change": "-0.1871",
+    "percentage_change": "-5.38%",
+    "market_capitalization": "1.859B",
+    "total_volume_in_all_currencies": "18.373M"
+  },
+  {
+    "symbol": "DCR-USD",
+    "currency": "Decred USD",
+    "($USD)price": "138.13",
+    "dollar_price_change": "+15.75",
+    "percentage_change": "+12.87%",
+    "market_capitalization": "1.747B",
+    "total_volume_in_all_currencies": "38.316M"
+  },
+  {
+    "symbol": "CCXX-USD",
+    "currency": "CounosX USD",
+    "($USD)price": "89.49",
+    "dollar_price_change": "-0.94",
+    "percentage_change": "-1.04%",
+    "market_capitalization": "1.596B",
+    "total_volume_in_all_currencies": "4.881M"
+  },
+  {
+    "symbol": "ZEC-USD",
+    "currency": "Zcash USD",
+    "($USD)price": "121.81",
+    "dollar_price_change": "+4.74",
+    "percentage_change": "+4.05%",
+    "market_capitalization": "1.367B",
+    "total_volume_in_all_currencies": "514.535M"
+  },
+  {
+    "symbol": "VGX-USD",
+    "currency": "VoyagerToken USD",
+    "($USD)price": "6.02701",
+    "dollar_price_change": "-0.51702",
+    "percentage_change": "-7.90%",
+    "market_capitalization": "1.34B",
+    "total_volume_in_all_currencies": "25.925M"
+  },
+  {
+    "symbol": "ZIL-USD",
+    "currency": "Zilliqa USD",
+    "($USD)price": "0.1207",
+    "dollar_price_change": "+0.0117",
+    "percentage_change": "+10.69%",
+    "market_capitalization": "1.327B",
+    "total_volume_in_all_currencies": "132.552M"
+  },
+  {
+    "symbol": "ETC-USD",
+    "currency": "EthereumClassic USD",
+    "($USD)price": "11.19",
+    "dollar_price_change": "+0.55",
+    "percentage_change": "+5.16%",
+    "market_capitalization": "1.302B",
+    "total_volume_in_all_currencies": "1.094B"
+  },
+  {
+    "symbol": "DFI-USD",
+    "currency": "DeFiChain USD",
+    "($USD)price": "3.0854",
+    "dollar_price_change": "-0.0097",
+    "percentage_change": "-0.31%",
+    "market_capitalization": "1.216B",
+    "total_volume_in_all_currencies": "6.396M"
+  },
+  {
+    "symbol": "RVN-USD",
+    "currency": "Ravencoin USD",
+    "($USD)price": "0.1472",
+    "dollar_price_change": "-0.0077",
+    "percentage_change": "-4.95%",
+    "market_capitalization": "1.211B",
+    "total_volume_in_all_currencies": "196.677M"
+  },
+  {
+    "symbol": "CEL-USD",
+    "currency": "Celsius USD",
+    "($USD)price": "4.7092",
+    "dollar_price_change": "-0.1734",
+    "percentage_change": "-3.55%",
+    "market_capitalization": "1.125B",
+    "total_volume_in_all_currencies": "8.518M"
+  },
+  {
+    "symbol": "ZRX-USD",
+    "currency": "0x USD",
+    "($USD)price": "1.3672",
+    "dollar_price_change": "+0.0612",
+    "percentage_change": "+4.69%",
+    "market_capitalization": "1.026B",
+    "total_volume_in_all_currencies": "191.307M"
+  },
+  {
+    "symbol": "WAVES-USD",
+    "currency": "Waves USD",
+    "($USD)price": "9.822701",
+    "dollar_price_change": "+0.342651",
+    "percentage_change": "+3.61%",
+    "market_capitalization": "1.026B",
+    "total_volume_in_all_currencies": "86.175M"
+  },
+  {
+    "symbol": "ICX-USD",
+    "currency": "ICON USD",
+    "($USD)price": "1.5688",
+    "dollar_price_change": "+0.0806",
+    "percentage_change": "+5.42%",
+    "market_capitalization": "927.21M",
+    "total_volume_in_all_currencies": "122.383M"
+  },
+  {
+    "symbol": "HBAR-USD",
+    "currency": "HederaHashgraph USD",
+    "($USD)price": "0.1217",
+    "dollar_price_change": "+0.0044",
+    "percentage_change": "+3.77%",
+    "market_capitalization": "894.536M",
+    "total_volume_in_all_currencies": "59.518M"
+  },
+  {
+    "symbol": "BAT-USD",
+    "currency": "BasicAttentionToken USD",
+    "($USD)price": "0.5201",
+    "dollar_price_change": "-0.0190",
+    "percentage_change": "-3.52%",
+    "market_capitalization": "774.572M",
+    "total_volume_in_all_currencies": "415.223M"
+  },
+  {
+    "symbol": "DGB-USD",
+    "currency": "DigiByte USD",
+    "($USD)price": "0.0541",
+    "dollar_price_change": "+0.0002",
+    "percentage_change": "+0.30%",
+    "market_capitalization": "761.89M",
+    "total_volume_in_all_currencies": "46.35M"
+  },
+  {
+    "symbol": "CELO-USD",
+    "currency": "Celo USD",
+    "($USD)price": "4.0780",
+    "dollar_price_change": "+0.1572",
+    "percentage_change": "+4.01%",
+    "market_capitalization": "752.182M",
+    "total_volume_in_all_currencies": "10.049M"
+  },
+  {
+    "symbol": "ONT-USD",
+    "currency": "Ontology USD",
+    "($USD)price": "0.9324",
+    "dollar_price_change": "+0.0461",
+    "percentage_change": "+5.20%",
+    "market_capitalization": "753.345M",
+    "total_volume_in_all_currencies": "299.605M"
+  },
+  {
+    "symbol": "STX1-USD",
+    "currency": "Stacks USD",
+    "($USD)price": "1.0146",
+    "dollar_price_change": "+0.0237",
+    "percentage_change": "+2.39%",
+    "market_capitalization": "750.551M",
+    "total_volume_in_all_currencies": "21.735M"
+  },
+  {
+    "symbol": "STX2-USD",
+    "currency": "Stacks USD",
+    "($USD)price": "0.9985",
+    "dollar_price_change": "-0.1105",
+    "percentage_change": "-9.96%",
+    "market_capitalization": "738.701M",
+    "total_volume_in_all_currencies": "38.298M"
+  },
+  {
+    "symbol": "BNT-USD",
+    "currency": "Bancor USD",
+    "($USD)price": "5.124341",
+    "dollar_price_change": "+0.203323",
+    "percentage_change": "+4.13%",
+    "market_capitalization": "716.545M",
+    "total_volume_in_all_currencies": "53.309M"
+  },
+  {
+    "symbol": "NANO-USD",
+    "currency": "Nano USD",
+    "($USD)price": "5.273395",
+    "dollar_price_change": "+0.214339",
+    "percentage_change": "+4.24%",
+    "market_capitalization": "702.671M",
+    "total_volume_in_all_currencies": "35.303M"
+  },
+  {
+    "symbol": "LRC-USD",
+    "currency": "Loopring USD",
+    "($USD)price": "0.5568",
+    "dollar_price_change": "+0.0493",
+    "percentage_change": "+9.72%",
+    "market_capitalization": "678.804M",
+    "total_volume_in_all_currencies": "42.25M"
+  },
+  {
+    "symbol": "IOST-USD",
+    "currency": "IOST USD",
+    "($USD)price": "0.0402",
+    "dollar_price_change": "-0.0001",
+    "percentage_change": "-0.32%",
+    "market_capitalization": "657.57M",
+    "total_volume_in_all_currencies": "363.071M"
+  },
+  {
+    "symbol": "OMG-USD",
+    "currency": "OmiseGO USD",
+    "($USD)price": "4.6010",
+    "dollar_price_change": "+0.2219",
+    "percentage_change": "+5.07%",
+    "market_capitalization": "645.269M",
+    "total_volume_in_all_currencies": "253.305M"
+  },
+  {
+    "symbol": "XWC-USD",
+    "currency": "WhiteCoin USD",
+    "($USD)price": "0.8313",
+    "dollar_price_change": "+0.0009",
+    "percentage_change": "+0.10%",
+    "market_capitalization": "592.088M",
+    "total_volume_in_all_currencies": "155,523"
+  },
+  {
+    "symbol": "QTUM-USD",
+    "currency": "Qtum USD",
+    "($USD)price": "5.367746",
+    "dollar_price_change": "+0.247982",
+    "percentage_change": "+4.84%",
+    "market_capitalization": "526.901M",
+    "total_volume_in_all_currencies": "358.314M"
+  },
+  {
+    "symbol": "ZEN-USD",
+    "currency": "Horizen USD",
+    "($USD)price": "47.97",
+    "dollar_price_change": "+2.49",
+    "percentage_change": "+5.48%",
+    "market_capitalization": "518.605M",
+    "total_volume_in_all_currencies": "33.063M"
+  },
+  {
+    "symbol": "TFUEL-USD",
+    "currency": "ThetaFuel USD",
+    "($USD)price": "0.0969",
+    "dollar_price_change": "+0.0143",
+    "percentage_change": "+17.36%",
+    "market_capitalization": "508.757M",
+    "total_volume_in_all_currencies": "58.65M"
+  },
+  {
+    "symbol": "SC-USD",
+    "currency": "Siacoin USD",
+    "($USD)price": "0.0101",
+    "dollar_price_change": "+0.0004",
+    "percentage_change": "+3.83%",
+    "market_capitalization": "477.238M",
+    "total_volume_in_all_currencies": "21.015M"
+  },
+  {
+    "symbol": "BTG-USD",
+    "currency": "BitcoinGold USD",
+    "($USD)price": "26.72",
+    "dollar_price_change": "+0.18",
+    "percentage_change": "+0.68%",
+    "market_capitalization": "467.957M",
+    "total_volume_in_all_currencies": "64.32M"
+  },
+  {
+    "symbol": "LSK-USD",
+    "currency": "Lisk USD",
+    "($USD)price": "3.0695",
+    "dollar_price_change": "+0.1258",
+    "percentage_change": "+4.27%",
+    "market_capitalization": "391.006M",
+    "total_volume_in_all_currencies": "23.984M"
+  },
+  {
+    "symbol": "AR-USD",
+    "currency": "Arweave USD",
+    "($USD)price": "11.19",
+    "dollar_price_change": "+0.70",
+    "percentage_change": "+6.66%",
+    "market_capitalization": "373.805M",
+    "total_volume_in_all_currencies": "13.934M"
+  },
+  {
+    "symbol": "EWT-USD",
+    "currency": "EnergyWebToken USD",
+    "($USD)price": "12.34",
+    "dollar_price_change": "-0.80",
+    "percentage_change": "-6.11%",
+    "market_capitalization": "370.828M",
+    "total_volume_in_all_currencies": "1.474M"
+  },
+  {
+    "symbol": "XDC-USD",
+    "currency": "XinFinNetwork USD",
+    "($USD)price": "0.0304",
+    "dollar_price_change": "+0.0023",
+    "percentage_change": "+8.21%",
+    "market_capitalization": "372.752M",
+    "total_volume_in_all_currencies": "4.852M"
+  },
+  {
+    "symbol": "GLM-USD",
+    "currency": "Golem USD",
+    "($USD)price": "0.3625",
+    "dollar_price_change": "+0.0179",
+    "percentage_change": "+5.20%",
+    "market_capitalization": "362.457M",
+    "total_volume_in_all_currencies": "9.639M"
+  },
+  {
+    "symbol": "KNC-USD",
+    "currency": "KyberNetwork USD",
+    "($USD)price": "1.7562",
+    "dollar_price_change": "+0.1887",
+    "percentage_change": "+12.04%",
+    "market_capitalization": "359.607M",
+    "total_volume_in_all_currencies": "56.769M"
+  },
+  {
+    "symbol": "SNT-USD",
+    "currency": "Status USD",
+    "($USD)price": "0.0885",
+    "dollar_price_change": "+0.0080",
+    "percentage_change": "+9.95%",
+    "market_capitalization": "307.148M",
+    "total_volume_in_all_currencies": "80.896M"
+  },
+  {
+    "symbol": "REP-USD",
+    "currency": "Augur USD",
+    "($USD)price": "27.60",
+    "dollar_price_change": "+2.12",
+    "percentage_change": "+8.32%",
+    "market_capitalization": "303.631M",
+    "total_volume_in_all_currencies": "43.209M"
+  },
+  {
+    "symbol": "XVG-USD",
+    "currency": "Verge USD",
+    "($USD)price": "0.0182",
+    "dollar_price_change": "+0.0007",
+    "percentage_change": "+4.14%",
+    "market_capitalization": "298.413M",
+    "total_volume_in_all_currencies": "13.152M"
+  },
+  {
+    "symbol": "HNT1-USD",
+    "currency": "Helium USD",
+    "($USD)price": "3.9154",
+    "dollar_price_change": "+0.1704",
+    "percentage_change": "+4.55%",
+    "market_capitalization": "282.254M",
+    "total_volume_in_all_currencies": "4.398M"
+  },
+  {
+    "symbol": "SRM-USD",
+    "currency": "Serum USD",
+    "($USD)price": "5.453919",
+    "dollar_price_change": "-0.027771",
+    "percentage_change": "-0.51%",
+    "market_capitalization": "272.696M",
+    "total_volume_in_all_currencies": "187.19M"
+  },
+  {
+    "symbol": "HNT2-USD",
+    "currency": "Helium USD",
+    "($USD)price": "3.7290",
+    "dollar_price_change": "-0.1042",
+    "percentage_change": "-2.72%",
+    "market_capitalization": "268.126M",
+    "total_volume_in_all_currencies": "4.783M"
+  },
+  {
+    "symbol": "CKB-USD",
+    "currency": "NervosNetwork USD",
+    "($USD)price": "0.0111",
+    "dollar_price_change": "-0.0007",
+    "percentage_change": "-5.59%",
+    "market_capitalization": "266.938M",
+    "total_volume_in_all_currencies": "27.639M"
+  },
+  {
+    "symbol": "ONE3-USD",
+    "currency": "Harmony USD",
+    "($USD)price": "0.0288",
+    "dollar_price_change": "+0.0036",
+    "percentage_change": "+14.52%",
+    "market_capitalization": "263.914M",
+    "total_volume_in_all_currencies": "62.687M"
+  },
+  {
+    "symbol": "CVC-USD",
+    "currency": "Civic USD",
+    "($USD)price": "0.3888",
+    "dollar_price_change": "+0.0559",
+    "percentage_change": "+16.80%",
+    "market_capitalization": "260.47M",
+    "total_volume_in_all_currencies": "49.675M"
+  },
+  {
+    "symbol": "ONE1-USD",
+    "currency": "Harmony USD",
+    "($USD)price": "0.0267",
+    "dollar_price_change": "+0.0018",
+    "percentage_change": "+7.28%",
+    "market_capitalization": "244.669M",
+    "total_volume_in_all_currencies": "67.563M"
+  },
+  {
+    "symbol": "ONE2-USD",
+    "currency": "Harmony USD",
+    "($USD)price": "0.0264",
+    "dollar_price_change": "-0.0004",
+    "percentage_change": "-1.37%",
+    "market_capitalization": "242.109M",
+    "total_volume_in_all_currencies": "32.656M"
+  },
+  {
+    "symbol": "IOTX-USD",
+    "currency": "IoTeX USD",
+    "($USD)price": "0.0232",
+    "dollar_price_change": "+0.0033",
+    "percentage_change": "+16.81%",
+    "market_capitalization": "223.673M",
+    "total_volume_in_all_currencies": "30.626M"
+  },
+  {
+    "symbol": "FUN-USD",
+    "currency": "FunFair USD",
+    "($USD)price": "0.0298",
+    "dollar_price_change": "+0.0000",
+    "percentage_change": "+0.05%",
+    "market_capitalization": "195.478M",
+    "total_volume_in_all_currencies": "2.63M"
+  },
+  {
+    "symbol": "GNO-USD",
+    "currency": "Gnosis USD",
+    "($USD)price": "127.11",
+    "dollar_price_change": "+2.47",
+    "percentage_change": "+1.98%",
+    "market_capitalization": "191.247M",
+    "total_volume_in_all_currencies": "746,491"
+  },
+  {
+    "symbol": "BCD-USD",
+    "currency": "BitcoinDiamond USD",
+    "($USD)price": "0.9995",
+    "dollar_price_change": "+0.0276",
+    "percentage_change": "+2.84%",
+    "market_capitalization": "186.394M",
+    "total_volume_in_all_currencies": "2.93M"
+  },
+  {
+    "symbol": "MAID-USD",
+    "currency": "MaidSafeCoin USD",
+    "($USD)price": "0.4013",
+    "dollar_price_change": "+0.0396",
+    "percentage_change": "+10.94%",
+    "market_capitalization": "181.593M",
+    "total_volume_in_all_currencies": "1.134M"
+  },
+  {
+    "symbol": "LRG-USD",
+    "currency": "LargoCoin USD",
+    "($USD)price": "9.727109",
+    "dollar_price_change": "+0.009609",
+    "percentage_change": "+0.10%",
+    "market_capitalization": "174.421M",
+    "total_volume_in_all_currencies": "0"
+  },
+  {
+    "symbol": "ARK-USD",
+    "currency": "Ark USD",
+    "($USD)price": "1.3581",
+    "dollar_price_change": "+0.2217",
+    "percentage_change": "+19.51%",
+    "market_capitalization": "173.175M",
+    "total_volume_in_all_currencies": "125.442M"
+  },
+  {
+    "symbol": "STEEM-USD",
+    "currency": "Steem USD",
+    "($USD)price": "0.4611",
+    "dollar_price_change": "+0.0103",
+    "percentage_change": "+2.29%",
+    "market_capitalization": "173.731M",
+    "total_volume_in_all_currencies": "57.469M"
+  },
+  {
+    "symbol": "ARDR-USD",
+    "currency": "Ardor USD",
+    "($USD)price": "0.1701",
+    "dollar_price_change": "+0.0193",
+    "percentage_change": "+12.76%",
+    "market_capitalization": "169.913M",
+    "total_volume_in_all_currencies": "19.581M"
+  },
+  {
+    "symbol": "ANT-USD",
+    "currency": "Aragon USD",
+    "($USD)price": "4.2696",
+    "dollar_price_change": "+0.1342",
+    "percentage_change": "+3.25%",
+    "market_capitalization": "169.118M",
+    "total_volume_in_all_currencies": "33.737M"
+  },
+  {
+    "symbol": "ABBC-USD",
+    "currency": "ABBCCoin USD",
+    "($USD)price": "0.2042",
+    "dollar_price_change": "+0.0049",
+    "percentage_change": "+2.48%",
+    "market_capitalization": "167.694M",
+    "total_volume_in_all_currencies": "45.378M"
+  },
+  {
+    "symbol": "STORJ-USD",
+    "currency": "Storj USD",
+    "($USD)price": "0.6603",
+    "dollar_price_change": "+0.0956",
+    "percentage_change": "+16.92%",
+    "market_capitalization": "166.573M",
+    "total_volume_in_all_currencies": "38.684M"
+  },
+  {
+    "symbol": "KMD-USD",
+    "currency": "Komodo USD",
+    "($USD)price": "1.3296",
+    "dollar_price_change": "+0.1353",
+    "percentage_change": "+11.32%",
+    "market_capitalization": "165.492M",
+    "total_volume_in_all_currencies": "20.813M"
+  },
+  {
+    "symbol": "MWC-USD",
+    "currency": "MimbleWimbleCoin USD",
+    "($USD)price": "15.08",
+    "dollar_price_change": "-0.41",
+    "percentage_change": "-2.62%",
+    "market_capitalization": "161.513M",
+    "total_volume_in_all_currencies": "770,809"
+  },
+  {
+    "symbol": "DNT-USD",
+    "currency": "district0x USD",
+    "($USD)price": "0.2547",
+    "dollar_price_change": "+0.0181",
+    "percentage_change": "+7.66%",
+    "market_capitalization": "152.791M",
+    "total_volume_in_all_currencies": "16.447M"
+  },
+  {
+    "symbol": "STRAX-USD",
+    "currency": "Stratis USD",
+    "($USD)price": "1.1858",
+    "dollar_price_change": "+0.0632",
+    "percentage_change": "+5.63%",
+    "market_capitalization": "152.594M",
+    "total_volume_in_all_currencies": "2.033M"
+  },
+  {
+    "symbol": "TOMO-USD",
+    "currency": "TomoChain USD",
+    "($USD)price": "1.8237",
+    "dollar_price_change": "-0.0591",
+    "percentage_change": "-3.14%",
+    "market_capitalization": "146.959M",
+    "total_volume_in_all_currencies": "27.226M"
+  },
+  {
+    "symbol": "KIN-USD",
+    "currency": "Kin USD",
+    "($USD)price": "0.0001",
+    "dollar_price_change": "+0.0000",
+    "percentage_change": "+3.20%",
+    "market_capitalization": "142.195M",
+    "total_volume_in_all_currencies": "641,044"
+  },
+  {
+    "symbol": "BTS-USD",
+    "currency": "BitShares USD",
+    "($USD)price": "0.0461",
+    "dollar_price_change": "+0.0038",
+    "percentage_change": "+8.95%",
+    "market_capitalization": "137.995M",
+    "total_volume_in_all_currencies": "14.733M"
+  },
+  {
+    "symbol": "WAN-USD",
+    "currency": "Wanchain USD",
+    "($USD)price": "0.8022",
+    "dollar_price_change": "+0.0413",
+    "percentage_change": "+5.43%",
+    "market_capitalization": "135.603M",
+    "total_volume_in_all_currencies": "4.063M"
+  },
+  {
+    "symbol": "COTI-USD",
+    "currency": "COTI USD",
+    "($USD)price": "0.1988",
+    "dollar_price_change": "-0.0105",
+    "percentage_change": "-5.01%",
+    "market_capitalization": "133.141M",
+    "total_volume_in_all_currencies": "50.911M"
+  },
+  {
+    "symbol": "HIVE-USD",
+    "currency": "Hive USD",
+    "($USD)price": "0.3245",
+    "dollar_price_change": "+0.0945",
+    "percentage_change": "+41.09%",
+    "market_capitalization": "131.011M",
+    "total_volume_in_all_currencies": "411.552M"
+  },
+  {
+    "symbol": "NYE-USD",
+    "currency": "NewYorkExchange USD",
+    "($USD)price": "18.22",
+    "dollar_price_change": "+1.32",
+    "percentage_change": "+7.84%",
+    "market_capitalization": "129.148M",
+    "total_volume_in_all_currencies": "709,881"
+  },
+  {
+    "symbol": "GRN-USD",
+    "currency": "GreenPower USD",
+    "($USD)price": "0.0393",
+    "dollar_price_change": "+0.0004",
+    "percentage_change": "+1.14%",
+    "market_capitalization": "126.903M",
+    "total_volume_in_all_currencies": "20,730"
+  },
+  {
+    "symbol": "MONA-USD",
+    "currency": "MonaCoin USD",
+    "($USD)price": "1.8887",
+    "dollar_price_change": "+0.0123",
+    "percentage_change": "+0.66%",
+    "market_capitalization": "124.141M",
+    "total_volume_in_all_currencies": "8.499M"
+  },
+  {
+    "symbol": "WAXP-USD",
+    "currency": "WAX USD",
+    "($USD)price": "0.0803",
+    "dollar_price_change": "+0.0051",
+    "percentage_change": "+6.83%",
+    "market_capitalization": "121.928M",
+    "total_volume_in_all_currencies": "1.143M"
+  },
+  {
+    "symbol": "RDD-USD",
+    "currency": "ReddCoin USD",
+    "($USD)price": "0.0042",
+    "dollar_price_change": "+0.0000",
+    "percentage_change": "+0.47%",
+    "market_capitalization": "122.276M",
+    "total_volume_in_all_currencies": "920,793"
+  },
+  {
+    "symbol": "RLC-USD",
+    "currency": "iExecRLC USD",
+    "($USD)price": "1.4678",
+    "dollar_price_change": "+0.1463",
+    "percentage_change": "+11.07%",
+    "market_capitalization": "117.525M",
+    "total_volume_in_all_currencies": "12.585M"
+  },
+  {
+    "symbol": "BTM-USD",
+    "currency": "Bytom USD",
+    "($USD)price": "0.0831",
+    "dollar_price_change": "+0.0026",
+    "percentage_change": "+3.25%",
+    "market_capitalization": "117.292M",
+    "total_volume_in_all_currencies": "26.131M"
+  },
+  {
+    "symbol": "HNS-USD",
+    "currency": "Handshake USD",
+    "($USD)price": "0.3195",
+    "dollar_price_change": "+0.0174",
+    "percentage_change": "+5.76%",
+    "market_capitalization": "114.286M",
+    "total_volume_in_all_currencies": "604,742"
+  },
+  {
+    "symbol": "ETN-USD",
+    "currency": "Electroneum USD",
+    "($USD)price": "0.0106",
+    "dollar_price_change": "+0.0003",
+    "percentage_change": "+2.55%",
+    "market_capitalization": "108.154M",
+    "total_volume_in_all_currencies": "803,429"
+  },
+  {
+    "symbol": "HNC-USD",
+    "currency": "Helleniccoin USD",
+    "($USD)price": "1.5464",
+    "dollar_price_change": "-0.0560",
+    "percentage_change": "-3.49%",
+    "market_capitalization": "108.112M",
+    "total_volume_in_all_currencies": "181,700"
+  },
+  {
+    "symbol": "IRIS-USD",
+    "currency": "IRISnet USD",
+    "($USD)price": "0.1122",
+    "dollar_price_change": "+0.0124",
+    "percentage_change": "+12.38%",
+    "market_capitalization": "107.07M",
+    "total_volume_in_all_currencies": "28.158M"
+  },
+  {
+    "symbol": "ERG-USD",
+    "currency": "Ergo USD",
+    "($USD)price": "3.6172",
+    "dollar_price_change": "+0.0306",
+    "percentage_change": "+0.85%",
+    "market_capitalization": "106.187M",
+    "total_volume_in_all_currencies": "1.751M"
+  },
+  {
+    "symbol": "GAS-USD",
+    "currency": "Gas USD",
+    "($USD)price": "10.46",
+    "dollar_price_change": "-1.07",
+    "percentage_change": "-9.26%",
+    "market_capitalization": "105.898M",
+    "total_volume_in_all_currencies": "80.994M"
+  },
+  {
+    "symbol": "REV-USD",
+    "currency": "RChain USD",
+    "($USD)price": "0.2156",
+    "dollar_price_change": "-0.0271",
+    "percentage_change": "-11.16%",
+    "market_capitalization": "104.095M",
+    "total_volume_in_all_currencies": "408,937"
+  },
+  {
+    "symbol": "MTC3-USD",
+    "currency": "Metacoin USD",
+    "($USD)price": "0.0965",
+    "dollar_price_change": "-0.0066",
+    "percentage_change": "-6.40%",
+    "market_capitalization": "103.349M",
+    "total_volume_in_all_currencies": "6,703"
+  },
+  {
+    "symbol": "MASS-USD",
+    "currency": "Massnet USD",
+    "($USD)price": "1.0813",
+    "dollar_price_change": "+0.1251",
+    "percentage_change": "+13.08%",
+    "market_capitalization": "101.2M",
+    "total_volume_in_all_currencies": "8.471M"
+  },
+  {
+    "symbol": "XNC-USD",
+    "currency": "XeniosCoin USD",
+    "($USD)price": "1.3281",
+    "dollar_price_change": "+0.0047",
+    "percentage_change": "+0.35%",
+    "market_capitalization": "101.301M",
+    "total_volume_in_all_currencies": "66,808"
+  },
+  {
+    "symbol": "ADX-USD",
+    "currency": "AdEx USD",
+    "($USD)price": "0.8532",
+    "dollar_price_change": "+0.2801",
+    "percentage_change": "+48.87%",
+    "market_capitalization": "97.554M",
+    "total_volume_in_all_currencies": "254.763M"
+  },
+  {
+    "symbol": "SAPP-USD",
+    "currency": "Sapphire USD",
+    "($USD)price": "0.1944",
+    "dollar_price_change": "+0.0022",
+    "percentage_change": "+1.15%",
+    "market_capitalization": "97.812M",
+    "total_volume_in_all_currencies": "36,401"
+  },
+  {
+    "symbol": "PPT-USD",
+    "currency": "Populous USD",
+    "($USD)price": "1.7821",
+    "dollar_price_change": "+0.0331",
+    "percentage_change": "+1.89%",
+    "market_capitalization": "94.902M",
+    "total_volume_in_all_currencies": "4.269M"
+  },
+  {
+    "symbol": "XHV-USD",
+    "currency": "HavenProtocol USD",
+    "($USD)price": "6.766913",
+    "dollar_price_change": "+0.074375",
+    "percentage_change": "+1.11%",
+    "market_capitalization": "94.119M",
+    "total_volume_in_all_currencies": "364,404"
+  },
+  {
+    "symbol": "JUL-USD",
+    "currency": "Joule USD",
+    "($USD)price": "0.0928",
+    "dollar_price_change": "-0.0079",
+    "percentage_change": "-7.84%",
+    "market_capitalization": "93.815M",
+    "total_volume_in_all_currencies": "0"
+  },
+  {
+    "symbol": "PHA-USD",
+    "currency": "PhalaNetwork USD",
+    "($USD)price": "0.6328",
+    "dollar_price_change": "-0.0025",
+    "percentage_change": "-0.40%",
+    "market_capitalization": "93.418M",
+    "total_volume_in_all_currencies": "27.135M"
+  },
+  {
+    "symbol": "AION-USD",
+    "currency": "Aion USD",
+    "($USD)price": "0.1875",
+    "dollar_price_change": "-0.0231",
+    "percentage_change": "-10.95%",
+    "market_capitalization": "91.416M",
+    "total_volume_in_all_currencies": "34.187M"
+  },
+  {
+    "symbol": "SYS-USD",
+    "currency": "Syscoin USD",
+    "($USD)price": "0.1512",
+    "dollar_price_change": "+0.0099",
+    "percentage_change": "+7.03%",
+    "market_capitalization": "91.795M",
+    "total_volume_in_all_currencies": "6.341M"
+  },
+  {
+    "symbol": "BDX-USD",
+    "currency": "Beldex USD",
+    "($USD)price": "0.0889",
+    "dollar_price_change": "-0.0009",
+    "percentage_change": "-0.97%",
+    "market_capitalization": "87.149M",
+    "total_volume_in_all_currencies": "110,478"
+  },
+  {
+    "symbol": "VLX-USD",
+    "currency": "Velas USD",
+    "($USD)price": "0.0404",
+    "dollar_price_change": "+0.0002",
+    "percentage_change": "+0.43%",
+    "market_capitalization": "85.781M",
+    "total_volume_in_all_currencies": "1.773M"
+  },
+  {
+    "symbol": "PCX-USD",
+    "currency": "ChainX USD",
+    "($USD)price": "11.06",
+    "dollar_price_change": "+0.37",
+    "percentage_change": "+3.48%",
+    "market_capitalization": "85.437M",
+    "total_volume_in_all_currencies": "1.195M"
+  },
+  {
+    "symbol": "BCN-USD",
+    "currency": "Bytecoin USD",
+    "($USD)price": "0.0005",
+    "dollar_price_change": "+0.0000",
+    "percentage_change": "+10.06%",
+    "market_capitalization": "84.447M",
+    "total_volume_in_all_currencies": "79,906"
+  },
+  {
+    "symbol": "LBC-USD",
+    "currency": "LBRYCredits USD",
+    "($USD)price": "0.1610",
+    "dollar_price_change": "+0.0173",
+    "percentage_change": "+12.04%",
+    "market_capitalization": "83.894M",
+    "total_volume_in_all_currencies": "24.993M"
+  },
+  {
+    "symbol": "NRG-USD",
+    "currency": "Energi USD",
+    "($USD)price": "2.1433",
+    "dollar_price_change": "-0.0475",
+    "percentage_change": "-2.17%",
+    "market_capitalization": "82.52M",
+    "total_volume_in_all_currencies": "3.079M"
+  },
+  {
+    "symbol": "PIVX-USD",
+    "currency": "PIVX USD",
+    "($USD)price": "1.2075",
+    "dollar_price_change": "-0.0767",
+    "percentage_change": "-5.98%",
+    "market_capitalization": "78.703M",
+    "total_volume_in_all_currencies": "2.853M"
+  },
+  {
+    "symbol": "NXS-USD",
+    "currency": "Nexus USD",
+    "($USD)price": "1.1394",
+    "dollar_price_change": "+0.1415",
+    "percentage_change": "+14.18%",
+    "market_capitalization": "79.597M",
+    "total_volume_in_all_currencies": "4.522M"
+  },
+  {
+    "symbol": "ADK-USD",
+    "currency": "AidosKuneen USD",
+    "($USD)price": "3.1404",
+    "dollar_price_change": "-0.7398",
+    "percentage_change": "-19.07%",
+    "market_capitalization": "78.51M",
+    "total_volume_in_all_currencies": "1.168M"
+  },
+  {
+    "symbol": "CNX-USD",
+    "currency": "Cryptonex USD",
+    "($USD)price": "1.4028",
+    "dollar_price_change": "-0.0851",
+    "percentage_change": "-5.72%",
+    "market_capitalization": "78.116M",
+    "total_volume_in_all_currencies": "0"
+  },
+  {
+    "symbol": "MTL-USD",
+    "currency": "Metal USD",
+    "($USD)price": "1.1654",
+    "dollar_price_change": "+0.3529",
+    "percentage_change": "+43.43%",
+    "market_capitalization": "76.439M",
+    "total_volume_in_all_currencies": "536.661M"
+  },
+  {
+    "symbol": "GNT-USD",
+    "currency": "Golem USD",
+    "($USD)price": "0.1189",
+    "dollar_price_change": "-0.0045",
+    "percentage_change": "-3.64%",
+    "market_capitalization": "76.62M",
+    "total_volume_in_all_currencies": "1.665M"
+  },
+  {
+    "symbol": "VITAE-USD",
+    "currency": "Vitae USD",
+    "($USD)price": "3.7804",
+    "dollar_price_change": "+0.1323",
+    "percentage_change": "+3.63%",
+    "market_capitalization": "73.609M",
+    "total_volume_in_all_currencies": "1.527M"
+  },
+  {
+    "symbol": "MTC1-USD",
+    "currency": "Metacoin USD",
+    "($USD)price": "0.0679",
+    "dollar_price_change": "+0.0020",
+    "percentage_change": "+3.06%",
+    "market_capitalization": "72.702M",
+    "total_volume_in_all_currencies": "8,573"
+  },
+  {
+    "symbol": "DIVI-USD",
+    "currency": "Divi USD",
+    "($USD)price": "0.0332",
+    "dollar_price_change": "+0.0013",
+    "percentage_change": "+3.91%",
+    "market_capitalization": "72.119M",
+    "total_volume_in_all_currencies": "52,568"
+  },
+  {
+    "symbol": "FIRO-USD",
+    "currency": "Firo USD",
+    "($USD)price": "5.777678",
+    "dollar_price_change": "+0.928369",
+    "percentage_change": "+19.14%",
+    "market_capitalization": "66.958M",
+    "total_volume_in_all_currencies": "5.615M"
+  },
+  {
+    "symbol": "WICC-USD",
+    "currency": "WaykiChain USD",
+    "($USD)price": "0.3154",
+    "dollar_price_change": "+0.0199",
+    "percentage_change": "+6.74%",
+    "market_capitalization": "66.231M",
+    "total_volume_in_all_currencies": "6.283M"
+  },
+  {
+    "symbol": "WTC-USD",
+    "currency": "Waltonchain USD",
+    "($USD)price": "0.9061",
+    "dollar_price_change": "+0.0408",
+    "percentage_change": "+4.71%",
+    "market_capitalization": "65.36M",
+    "total_volume_in_all_currencies": "11.933M"
+  },
+  {
+    "symbol": "AXEL-USD",
+    "currency": "AXEL USD",
+    "($USD)price": "0.2460",
+    "dollar_price_change": "+0.0070",
+    "percentage_change": "+2.93%",
+    "market_capitalization": "65.202M",
+    "total_volume_in_all_currencies": "308,012"
+  },
+  {
+    "symbol": "MTC2-USD",
+    "currency": "Metacoin USD",
+    "($USD)price": "0.0606",
+    "dollar_price_change": "-0.0053",
+    "percentage_change": "-8.05%",
+    "market_capitalization": "64.932M",
+    "total_volume_in_all_currencies": "4,863"
+  },
+  {
+    "symbol": "WOZX-USD",
+    "currency": "EFFORCE USD",
+    "($USD)price": "1.1150",
+    "dollar_price_change": "+0.0345",
+    "percentage_change": "+3.19%",
+    "market_capitalization": "63.701M",
+    "total_volume_in_all_currencies": "12.952M"
+  },
+  {
+    "symbol": "TT-USD",
+    "currency": "ThunderToken USD",
+    "($USD)price": "0.0093",
+    "dollar_price_change": "+0.0008",
+    "percentage_change": "+10.05%",
+    "market_capitalization": "63.181M",
+    "total_volume_in_all_currencies": "8.205M"
+  },
+  {
+    "symbol": "DMCH-USD",
+    "currency": "DARMACash USD",
+    "($USD)price": "0.2830",
+    "dollar_price_change": "-0.0266",
+    "percentage_change": "-8.58%",
+    "market_capitalization": "60.091M",
+    "total_volume_in_all_currencies": "3,964"
+  },
+  {
+    "symbol": "ARRR-USD",
+    "currency": "PirateChain USD",
+    "($USD)price": "0.3271",
+    "dollar_price_change": "+0.0117",
+    "percentage_change": "+3.72%",
+    "market_capitalization": "58.077M",
+    "total_volume_in_all_currencies": "154,990"
+  },
+  {
+    "symbol": "ATRI-USD",
+    "currency": "AtariToken USD",
+    "($USD)price": "0.1417",
+    "dollar_price_change": "+0.0002",
+    "percentage_change": "+0.14%",
+    "market_capitalization": "56.689M",
+    "total_volume_in_all_currencies": "141,661"
+  },
+  {
+    "symbol": "MLN-USD",
+    "currency": "Melon USD",
+    "($USD)price": "36.99",
+    "dollar_price_change": "-0.53",
+    "percentage_change": "-1.40%",
+    "market_capitalization": "54.633M",
+    "total_volume_in_all_currencies": "903,132"
+  },
+  {
+    "symbol": "EMC2-USD",
+    "currency": "Einsteinium USD",
+    "($USD)price": "0.2438",
+    "dollar_price_change": "+0.0246",
+    "percentage_change": "+11.23%",
+    "market_capitalization": "53.961M",
+    "total_volume_in_all_currencies": "17.17M"
+  },
+  {
+    "symbol": "FIO-USD",
+    "currency": "FIOProtocol USD",
+    "($USD)price": "0.2451",
+    "dollar_price_change": "+0.0534",
+    "percentage_change": "+27.86%",
+    "market_capitalization": "54.177M",
+    "total_volume_in_all_currencies": "242.058M"
+  },
+  {
+    "symbol": "NIM-USD",
+    "currency": "Nimiq USD",
+    "($USD)price": "0.0072",
+    "dollar_price_change": "+0.0004",
+    "percentage_change": "+5.75%",
+    "market_capitalization": "52.58M",
+    "total_volume_in_all_currencies": "949,080"
+  },
+  {
+    "symbol": "NULS-USD",
+    "currency": "NULS USD",
+    "($USD)price": "0.5119",
+    "dollar_price_change": "+0.0429",
+    "percentage_change": "+9.14%",
+    "market_capitalization": "50.994M",
+    "total_volume_in_all_currencies": "33.36M"
+  },
+  {
+    "symbol": "GRS-USD",
+    "currency": "Groestlcoin USD",
+    "($USD)price": "0.6544",
+    "dollar_price_change": "+0.0751",
+    "percentage_change": "+12.96%",
+    "market_capitalization": "50.404M",
+    "total_volume_in_all_currencies": "52.305M"
+  },
+  {
+    "symbol": "MHC-USD",
+    "currency": "MetaHash USD",
+    "($USD)price": "0.0208",
+    "dollar_price_change": "+0.0161",
+    "percentage_change": "+339.86%",
+    "market_capitalization": "50.007M",
+    "total_volume_in_all_currencies": "1.174M"
+  },
+  {
+    "symbol": "ELA-USD",
+    "currency": "Elastos USD",
+    "($USD)price": "2.8338",
+    "dollar_price_change": "+0.0250",
+    "percentage_change": "+0.89%",
+    "market_capitalization": "48.868M",
+    "total_volume_in_all_currencies": "4.363M"
+  },
+  {
+    "symbol": "AE-USD",
+    "currency": "Aeternity USD",
+    "($USD)price": "0.1465",
+    "dollar_price_change": "+0.0117",
+    "percentage_change": "+8.71%",
+    "market_capitalization": "48.653M",
+    "total_volume_in_all_currencies": "12.577M"
+  },
+  {
+    "symbol": "XZC-USD",
+    "currency": "Zcoin USD",
+    "($USD)price": "4.2577",
+    "dollar_price_change": "+0.0602",
+    "percentage_change": "+1.43%",
+    "market_capitalization": "48.606M",
+    "total_volume_in_all_currencies": "6.702M"
+  },
+  {
+    "symbol": "ZNN-USD",
+    "currency": "Zenon USD",
+    "($USD)price": "9.111941",
+    "dollar_price_change": "+0.923800",
+    "percentage_change": "+11.28%",
+    "market_capitalization": "47.349M",
+    "total_volume_in_all_currencies": "1.151M"
+  },
+  {
+    "symbol": "LOKI-USD",
+    "currency": "Loki USD",
+    "($USD)price": "0.8712",
+    "dollar_price_change": "+0.0177",
+    "percentage_change": "+2.08%",
+    "market_capitalization": "46.187M",
+    "total_volume_in_all_currencies": "181,435"
+  },
+  {
+    "symbol": "BEAM-USD",
+    "currency": "Beam USD",
+    "($USD)price": "0.5614",
+    "dollar_price_change": "+0.0495",
+    "percentage_change": "+9.67%",
+    "market_capitalization": "46.231M",
+    "total_volume_in_all_currencies": "10.328M"
+  },
+  {
+    "symbol": "CTXC-USD",
+    "currency": "Cortex USD",
+    "($USD)price": "0.1747",
+    "dollar_price_change": "+0.0397",
+    "percentage_change": "+29.41%",
+    "market_capitalization": "43.659M",
+    "total_volume_in_all_currencies": "7.157M"
+  },
+  {
+    "symbol": "VSYS-USD",
+    "currency": "VSystems USD",
+    "($USD)price": "0.0202",
+    "dollar_price_change": "-0.0003",
+    "percentage_change": "-1.37%",
+    "market_capitalization": "44.748M",
+    "total_volume_in_all_currencies": "1.452M"
+  },
+  {
+    "symbol": "MCO-USD",
+    "currency": "MCO USD",
+    "($USD)price": "2.7916",
+    "dollar_price_change": "+0.0037",
+    "percentage_change": "+0.13%",
+    "market_capitalization": "44.09M",
+    "total_volume_in_all_currencies": "317,401"
+  },
+  {
+    "symbol": "SKY-USD",
+    "currency": "Skycoin USD",
+    "($USD)price": "2.1815",
+    "dollar_price_change": "-0.0616",
+    "percentage_change": "-2.74%",
+    "market_capitalization": "43.63M",
+    "total_volume_in_all_currencies": "3.013M"
+  },
+  {
+    "symbol": "DAG-USD",
+    "currency": "Constellation USD",
+    "($USD)price": "0.0334",
+    "dollar_price_change": "+0.0025",
+    "percentage_change": "+8.18%",
+    "market_capitalization": "42.3M",
+    "total_volume_in_all_currencies": "1.258M"
+  },
+  {
+    "symbol": "KDA-USD",
+    "currency": "Kadena USD",
+    "($USD)price": "0.4009",
+    "dollar_price_change": "+0.0179",
+    "percentage_change": "+4.68%",
+    "market_capitalization": "41.941M",
+    "total_volume_in_all_currencies": "499,263"
+  },
+  {
+    "symbol": "HC-USD",
+    "currency": "HyperCash USD",
+    "($USD)price": "0.9161",
+    "dollar_price_change": "+0.0309",
+    "percentage_change": "+3.49%",
+    "market_capitalization": "41.286M",
+    "total_volume_in_all_currencies": "8.315M"
+  },
+  {
+    "symbol": "MED-USD",
+    "currency": "MediBlocQRC20 USD",
+    "($USD)price": "0.0150",
+    "dollar_price_change": "+0.0018",
+    "percentage_change": "+13.45%",
+    "market_capitalization": "41.137M",
+    "total_volume_in_all_currencies": "1.015M"
+  },
+  {
+    "symbol": "STRAT-USD",
+    "currency": "Stratis USD",
+    "($USD)price": "0.4094",
+    "dollar_price_change": "-0.0813",
+    "percentage_change": "-16.57%",
+    "market_capitalization": "40.952M",
+    "total_volume_in_all_currencies": "1.818M"
+  },
+  {
+    "symbol": "SBD-USD",
+    "currency": "SteemDollars USD",
+    "($USD)price": "6.498351",
+    "dollar_price_change": "-2.355343",
+    "percentage_change": "-26.60%",
+    "market_capitalization": "40.394M",
+    "total_volume_in_all_currencies": "105.94M"
+  },
+  {
+    "symbol": "APL-USD",
+    "currency": "ApolloCurrency USD",
+    "($USD)price": "0.0019",
+    "dollar_price_change": "+0.0002",
+    "percentage_change": "+8.79%",
+    "market_capitalization": "40.038M",
+    "total_volume_in_all_currencies": "1.417M"
+  },
+  {
+    "symbol": "KRT-USD",
+    "currency": "TerraKRW USD",
+    "($USD)price": "0.0009",
+    "dollar_price_change": "+0.0000",
+    "percentage_change": "+0.22%",
+    "market_capitalization": "38.626M",
+    "total_volume_in_all_currencies": "66,100"
+  },
+  {
+    "symbol": "FSN-USD",
+    "currency": "Fusion USD",
+    "($USD)price": "0.7770",
+    "dollar_price_change": "+0.0117",
+    "percentage_change": "+1.53%",
+    "market_capitalization": "38.292M",
+    "total_volume_in_all_currencies": "9.934M"
+  },
+  {
+    "symbol": "GXC-USD",
+    "currency": "GXChain USD",
+    "($USD)price": "0.5273",
+    "dollar_price_change": "+0.0531",
+    "percentage_change": "+11.20%",
+    "market_capitalization": "36.912M",
+    "total_volume_in_all_currencies": "6.566M"
+  },
+  {
+    "symbol": "BIP-USD",
+    "currency": "MinterNetwork USD",
+    "($USD)price": "0.0103",
+    "dollar_price_change": "+0.0003",
+    "percentage_change": "+2.66%",
+    "market_capitalization": "36.463M",
+    "total_volume_in_all_currencies": "5,416"
+  },
+  {
+    "symbol": "GLEEC-USD",
+    "currency": "Gleec USD",
+    "($USD)price": "1.7078",
+    "dollar_price_change": "-0.0205",
+    "percentage_change": "-1.19%",
+    "market_capitalization": "35.434M",
+    "total_volume_in_all_currencies": "203,624"
+  },
+  {
+    "symbol": "VTC-USD",
+    "currency": "Vertcoin USD",
+    "($USD)price": "0.5925",
+    "dollar_price_change": "+0.0686",
+    "percentage_change": "+13.10%",
+    "market_capitalization": "34.91M",
+    "total_volume_in_all_currencies": "944,514"
+  },
+  {
+    "symbol": "XLT-USD",
+    "currency": "Nexalt USD",
+    "($USD)price": "1.7280",
+    "dollar_price_change": "-0.0193",
+    "percentage_change": "-1.11%",
+    "market_capitalization": "34.961M",
+    "total_volume_in_all_currencies": "439,312"
+  },
+  {
+    "symbol": "NEBL-USD",
+    "currency": "Neblio USD",
+    "($USD)price": "2.0241",
+    "dollar_price_change": "+0.0356",
+    "percentage_change": "+1.79%",
+    "market_capitalization": "34.696M",
+    "total_volume_in_all_currencies": "1.689M"
+  },
+  {
+    "symbol": "VERI-USD",
+    "currency": "Veritaseum USD",
+    "($USD)price": "16.15",
+    "dollar_price_change": "-0.64",
+    "percentage_change": "-3.79%",
+    "market_capitalization": "34.71M",
+    "total_volume_in_all_currencies": "77,192"
+  },
+  {
+    "symbol": "XSN-USD",
+    "currency": "Stakenet USD",
+    "($USD)price": "0.2993",
+    "dollar_price_change": "+0.0053",
+    "percentage_change": "+1.82%",
+    "market_capitalization": "33.979M",
+    "total_volume_in_all_currencies": "75,166"
+  },
+  {
+    "symbol": "DGD-USD",
+    "currency": "DigixDAO USD",
+    "($USD)price": "286.89",
+    "dollar_price_change": "+9.50",
+    "percentage_change": "+3.43%",
+    "market_capitalization": "33.397M",
+    "total_volume_in_all_currencies": "39,605"
+  },
+  {
+    "symbol": "NXT-USD",
+    "currency": "Nxt USD",
+    "($USD)price": "0.0318",
+    "dollar_price_change": "+0.0004",
+    "percentage_change": "+1.15%",
+    "market_capitalization": "31.734M",
+    "total_volume_in_all_currencies": "1.588M"
+  },
+  {
+    "symbol": "SERO-USD",
+    "currency": "SuperZero USD",
+    "($USD)price": "0.1010",
+    "dollar_price_change": "+0.0007",
+    "percentage_change": "+0.67%",
+    "market_capitalization": "31.182M",
+    "total_volume_in_all_currencies": "2.351M"
+  },
+  {
+    "symbol": "BPS-USD",
+    "currency": "BitcoinPoS USD",
+    "($USD)price": "7.412372",
+    "dollar_price_change": "+0.806585",
+    "percentage_change": "+12.21%",
+    "market_capitalization": "30.521M",
+    "total_volume_in_all_currencies": "53,263"
+  },
+  {
+    "symbol": "NAS-USD",
+    "currency": "Nebulas USD",
+    "($USD)price": "0.5277",
+    "dollar_price_change": "+0.0589",
+    "percentage_change": "+12.57%",
+    "market_capitalization": "30.721M",
+    "total_volume_in_all_currencies": "4.211M"
+  },
+  {
+    "symbol": "RBTC-USD",
+    "currency": "RSKSmartBitcoin USD",
+    "($USD)price": "46,978.64",
+    "dollar_price_change": "+555.97",
+    "percentage_change": "+1.20%",
+    "market_capitalization": "27.257M",
+    "total_volume_in_all_currencies": "134,963"
+  },
+  {
+    "symbol": "GRIN-USD",
+    "currency": "Grin USD",
+    "($USD)price": "0.4151",
+    "dollar_price_change": "+0.0194",
+    "percentage_change": "+4.91%",
+    "market_capitalization": "27.643M",
+    "total_volume_in_all_currencies": "4.499M"
+  },
+  {
+    "symbol": "NAV-USD",
+    "currency": "NavCoin USD",
+    "($USD)price": "0.3791",
+    "dollar_price_change": "+0.0274",
+    "percentage_change": "+7.78%",
+    "market_capitalization": "26.905M",
+    "total_volume_in_all_currencies": "973,378"
+  },
+  {
+    "symbol": "NKN-USD",
+    "currency": "NKN USD",
+    "($USD)price": "0.0441",
+    "dollar_price_change": "+0.0026",
+    "percentage_change": "+6.27%",
+    "market_capitalization": "25.712M",
+    "total_volume_in_all_currencies": "6.294M"
+  },
+  {
+    "symbol": "SFT-USD",
+    "currency": "SafexToken USD",
+    "($USD)price": "0.0135",
+    "dollar_price_change": "+0.0011",
+    "percentage_change": "+9.08%",
+    "market_capitalization": "25.41M",
+    "total_volume_in_all_currencies": "11,392"
+  },
+  {
+    "symbol": "DERO-USD",
+    "currency": "Dero USD",
+    "($USD)price": "2.3616",
+    "dollar_price_change": "+0.1437",
+    "percentage_change": "+6.48%",
+    "market_capitalization": "24.57M",
+    "total_volume_in_all_currencies": "213,513"
+  },
+  {
+    "symbol": "LYNX-USD",
+    "currency": "Lynx USD",
+    "($USD)price": "0.0003",
+    "dollar_price_change": "-0.0000",
+    "percentage_change": "-9.39%",
+    "market_capitalization": "24.598M",
+    "total_volume_in_all_currencies": "1"
+  },
+  {
+    "symbol": "PAC-USD",
+    "currency": "PACGlobal USD",
+    "($USD)price": "0.0019",
+    "dollar_price_change": "+0.0001",
+    "percentage_change": "+5.67%",
+    "market_capitalization": "24.627M",
+    "total_volume_in_all_currencies": "28,158"
+  },
+  {
+    "symbol": "GBYTE-USD",
+    "currency": "Obyte USD",
+    "($USD)price": "32.24",
+    "dollar_price_change": "+0.21",
+    "percentage_change": "+0.65%",
+    "market_capitalization": "24.299M",
+    "total_volume_in_all_currencies": "33,081"
+  },
+  {
+    "symbol": "MARO-USD",
+    "currency": "Maro USD",
+    "($USD)price": "0.0495",
+    "dollar_price_change": "+0.0050",
+    "percentage_change": "+11.31%",
+    "market_capitalization": "23.352M",
+    "total_volume_in_all_currencies": "45.343M"
+  },
+  {
+    "symbol": "ZANO-USD",
+    "currency": "Zano USD",
+    "($USD)price": "2.2052",
+    "dollar_price_change": "+0.5673",
+    "percentage_change": "+34.64%",
+    "market_capitalization": "23.221M",
+    "total_volume_in_all_currencies": "369,167"
+  },
+  {
+    "symbol": "QASH-USD",
+    "currency": "QASH USD",
+    "($USD)price": "0.0652",
+    "dollar_price_change": "+0.0036",
+    "percentage_change": "+5.91%",
+    "market_capitalization": "22.823M",
+    "total_volume_in_all_currencies": "335,173"
+  },
+  {
+    "symbol": "NMC-USD",
+    "currency": "Namecoin USD",
+    "($USD)price": "1.5385",
+    "dollar_price_change": "-0.0582",
+    "percentage_change": "-3.64%",
+    "market_capitalization": "22.671M",
+    "total_volume_in_all_currencies": "136,377"
+  },
+  {
+    "symbol": "CRU-USD",
+    "currency": "Crust USD",
+    "($USD)price": "13.83",
+    "dollar_price_change": "+1.25",
+    "percentage_change": "+9.93%",
+    "market_capitalization": "22.454M",
+    "total_volume_in_all_currencies": "3.155M"
+  },
+  {
+    "symbol": "PAY-USD",
+    "currency": "TenX USD",
+    "($USD)price": "0.1519",
+    "dollar_price_change": "+0.0079",
+    "percentage_change": "+5.52%",
+    "market_capitalization": "22.266M",
+    "total_volume_in_all_currencies": "5.046M"
+  },
+  {
+    "symbol": "CSC-USD",
+    "currency": "CasinoCoin USD",
+    "($USD)price": "0.0005",
+    "dollar_price_change": "+0.0002",
+    "percentage_change": "+70.82%",
+    "market_capitalization": "21.022M",
+    "total_volume_in_all_currencies": "360,061"
+  },
+  {
+    "symbol": "QRL-USD",
+    "currency": "QuantumResistantLedger USD",
+    "($USD)price": "0.3034",
+    "dollar_price_change": "-0.0160",
+    "percentage_change": "-5.02%",
+    "market_capitalization": "22.269M",
+    "total_volume_in_all_currencies": "62,561"
+  },
+  {
+    "symbol": "META-USD",
+    "currency": "Metadium USD",
+    "($USD)price": "0.0170",
+    "dollar_price_change": "-0.0008",
+    "percentage_change": "-4.29%",
+    "market_capitalization": "21.15M",
+    "total_volume_in_all_currencies": "72,284"
+  },
+  {
+    "symbol": "BTC2-USD",
+    "currency": "Bitcoin2 USD",
+    "($USD)price": "1.1415",
+    "dollar_price_change": "-0.0954",
+    "percentage_change": "-7.71%",
+    "market_capitalization": "20.355M",
+    "total_volume_in_all_currencies": "837"
+  },
+  {
+    "symbol": "GO-USD",
+    "currency": "GoChain USD",
+    "($USD)price": "0.0189",
+    "dollar_price_change": "-0.0007",
+    "percentage_change": "-3.49%",
+    "market_capitalization": "20.162M",
+    "total_volume_in_all_currencies": "334,429"
+  },
+  {
+    "symbol": "BLOCK-USD",
+    "currency": "Blocknet USD",
+    "($USD)price": "2.6196",
+    "dollar_price_change": "+0.0430",
+    "percentage_change": "+1.67%",
+    "market_capitalization": "19.756M",
+    "total_volume_in_all_currencies": "26,728"
+  },
+  {
+    "symbol": "CCA-USD",
+    "currency": "CounosCoin USD",
+    "($USD)price": "1.2783",
+    "dollar_price_change": "-0.5003",
+    "percentage_change": "-28.13%",
+    "market_capitalization": "18.981M",
+    "total_volume_in_all_currencies": "7,203"
+  },
+  {
+    "symbol": "DNA1-USD",
+    "currency": "MetaverseDualchainNetworkArchitecture USD",
+    "($USD)price": "0.0010",
+    "dollar_price_change": "+0.0000",
+    "percentage_change": "+3.44%",
+    "market_capitalization": "19.457M",
+    "total_volume_in_all_currencies": "135,285"
+  },
+  {
+    "symbol": "PZM-USD",
+    "currency": "PRIZM USD",
+    "($USD)price": "0.0072",
+    "dollar_price_change": "+0.0001",
+    "percentage_change": "+1.04%",
+    "market_capitalization": "18.912M",
+    "total_volume_in_all_currencies": "388,735"
+  },
+  {
+    "symbol": "DNA2-USD",
+    "currency": "MetaverseDualchainNetworkArchitecture USD",
+    "($USD)price": "0.0009",
+    "dollar_price_change": "-0.0001",
+    "percentage_change": "-9.42%",
+    "market_capitalization": "18.855M",
+    "total_volume_in_all_currencies": "211,806"
+  },
+  {
+    "symbol": "NVT-USD",
+    "currency": "NerveNetwork USD",
+    "($USD)price": "0.0646",
+    "dollar_price_change": "+0.0039",
+    "percentage_change": "+6.46%",
+    "market_capitalization": "17.885M",
+    "total_volume_in_all_currencies": "86,576"
+  },
+  {
+    "symbol": "SALT-USD",
+    "currency": "SALT USD",
+    "($USD)price": "0.2181",
+    "dollar_price_change": "-0.0082",
+    "percentage_change": "-3.64%",
+    "market_capitalization": "17.511M",
+    "total_volume_in_all_currencies": "101,453"
+  },
+  {
+    "symbol": "OBSR-USD",
+    "currency": "Observer USD",
+    "($USD)price": "0.0076",
+    "dollar_price_change": "+0.0002",
+    "percentage_change": "+2.76%",
+    "market_capitalization": "17.363M",
+    "total_volume_in_all_currencies": "19.53M"
+  },
+  {
+    "symbol": "FCT-USD",
+    "currency": "Factom USD",
+    "($USD)price": "1.7884",
+    "dollar_price_change": "-0.2637",
+    "percentage_change": "-12.85%",
+    "market_capitalization": "17.223M",
+    "total_volume_in_all_currencies": "126,330"
+  },
+  {
+    "symbol": "BHD-USD",
+    "currency": "BitcoinHD USD",
+    "($USD)price": "2.6966",
+    "dollar_price_change": "-0.1209",
+    "percentage_change": "-4.29%",
+    "market_capitalization": "16.404M",
+    "total_volume_in_all_currencies": "3.166M"
+  },
+  {
+    "symbol": "PAI-USD",
+    "currency": "ProjectPai USD",
+    "($USD)price": "0.0107",
+    "dollar_price_change": "+0.0001",
+    "percentage_change": "+1.37%",
+    "market_capitalization": "16.165M",
+    "total_volume_in_all_currencies": "212,660"
+  },
+  {
+    "symbol": "AMB-USD",
+    "currency": "Ambrosus USD",
+    "($USD)price": "0.0389",
+    "dollar_price_change": "+0.0033",
+    "percentage_change": "+9.39%",
+    "market_capitalization": "15.841M",
+    "total_volume_in_all_currencies": "630,592"
+  },
+  {
+    "symbol": "CET-USD",
+    "currency": "CoinExToken USD",
+    "($USD)price": "0.0223",
+    "dollar_price_change": "-0.0003",
+    "percentage_change": "-1.40%",
+    "market_capitalization": "15.793M",
+    "total_volume_in_all_currencies": "1.197M"
+  },
+  {
+    "symbol": "TRUE-USD",
+    "currency": "TrueChain USD",
+    "($USD)price": "0.1910",
+    "dollar_price_change": "-0.0040",
+    "percentage_change": "-2.04%",
+    "market_capitalization": "15.203M",
+    "total_volume_in_all_currencies": "4.86M"
+  },
+  {
+    "symbol": "VITE-USD",
+    "currency": "VITE USD",
+    "($USD)price": "0.0318",
+    "dollar_price_change": "+0.0012",
+    "percentage_change": "+4.02%",
+    "market_capitalization": "15.121M",
+    "total_volume_in_all_currencies": "1.718M"
+  },
+  {
+    "symbol": "POA-USD",
+    "currency": "POANetwork USD",
+    "($USD)price": "0.0529",
+    "dollar_price_change": "+0.0015",
+    "percentage_change": "+2.87%",
+    "market_capitalization": "15.085M",
+    "total_volume_in_all_currencies": "1.025M"
+  },
+  {
+    "symbol": "PI-USD",
+    "currency": "PCHAIN USD",
+    "($USD)price": "0.0186",
+    "dollar_price_change": "+0.0008",
+    "percentage_change": "+4.75%",
+    "market_capitalization": "15.015M",
+    "total_volume_in_all_currencies": "244,113"
+  },
+  {
+    "symbol": "AYA-USD",
+    "currency": "Aryacoin USD",
+    "($USD)price": "0.0920",
+    "dollar_price_change": "-0.0080",
+    "percentage_change": "-8.04%",
+    "market_capitalization": "14.762M",
+    "total_volume_in_all_currencies": "102,444"
+  },
+  {
+    "symbol": "UBQ-USD",
+    "currency": "Ubiq USD",
+    "($USD)price": "0.3467",
+    "dollar_price_change": "-0.0130",
+    "percentage_change": "-3.61%",
+    "market_capitalization": "14.772M",
+    "total_volume_in_all_currencies": "27,573"
+  },
+  {
+    "symbol": "GAME-USD",
+    "currency": "GameCredits USD",
+    "($USD)price": "0.1062",
+    "dollar_price_change": "+0.0016",
+    "percentage_change": "+1.50%",
+    "market_capitalization": "14.388M",
+    "total_volume_in_all_currencies": "172,810"
+  },
+  {
+    "symbol": "VIA-USD",
+    "currency": "Viacoin USD",
+    "($USD)price": "0.6198",
+    "dollar_price_change": "+0.0154",
+    "percentage_change": "+2.56%",
+    "market_capitalization": "14.364M",
+    "total_volume_in_all_currencies": "2.175M"
+  },
+  {
+    "symbol": "ETP-USD",
+    "currency": "MetaverseETP USD",
+    "($USD)price": "0.1790",
+    "dollar_price_change": "-0.0039",
+    "percentage_change": "-2.12%",
+    "market_capitalization": "14.269M",
+    "total_volume_in_all_currencies": "778,028"
+  },
+  {
+    "symbol": "ZYN-USD",
+    "currency": "Zynecoin USD",
+    "($USD)price": "0.6083",
+    "dollar_price_change": "+0.0064",
+    "percentage_change": "+1.07%",
+    "market_capitalization": "13.466M",
+    "total_volume_in_all_currencies": "193,616"
+  },
+  {
+    "symbol": "CUT-USD",
+    "currency": "CUTcoin USD",
+    "($USD)price": "0.0993",
+    "dollar_price_change": "+0.0123",
+    "percentage_change": "+14.19%",
+    "market_capitalization": "12.93M",
+    "total_volume_in_all_currencies": "1,860"
+  },
+  {
+    "symbol": "BHP-USD",
+    "currency": "BHPCoin USD",
+    "($USD)price": "0.6358",
+    "dollar_price_change": "+0.0068",
+    "percentage_change": "+1.08%",
+    "market_capitalization": "12.828M",
+    "total_volume_in_all_currencies": "3.21M"
+  },
+  {
+    "symbol": "PPC-USD",
+    "currency": "Peercoin USD",
+    "($USD)price": "0.4631",
+    "dollar_price_change": "+0.0100",
+    "percentage_change": "+2.21%",
+    "market_capitalization": "12.407M",
+    "total_volume_in_all_currencies": "54,531"
+  },
+  {
+    "symbol": "RINGX-USD",
+    "currency": "RINGXPLATFORM USD",
+    "($USD)price": "0.0519",
+    "dollar_price_change": "+0.0004",
+    "percentage_change": "+0.73%",
+    "market_capitalization": "11.158M",
+    "total_volume_in_all_currencies": "1.177M"
+  },
+  {
+    "symbol": "PLC-USD",
+    "currency": "PLATINCOIN USD",
+    "($USD)price": "2.2184",
+    "dollar_price_change": "-0.1694",
+    "percentage_change": "-7.09%",
+    "market_capitalization": "11.094M",
+    "total_volume_in_all_currencies": "334,566"
+  },
+  {
+    "symbol": "DYN-USD",
+    "currency": "Dynamic USD",
+    "($USD)price": "0.7208",
+    "dollar_price_change": "+0.0001",
+    "percentage_change": "+0.02%",
+    "market_capitalization": "11.034M",
+    "total_volume_in_all_currencies": "37,261"
+  },
+  {
+    "symbol": "ACH-USD",
+    "currency": "AlchemyPay USD",
+    "($USD)price": "0.0072",
+    "dollar_price_change": "-0.0004",
+    "percentage_change": "-5.58%",
+    "market_capitalization": "11.186M",
+    "total_volume_in_all_currencies": "2.3M"
+  },
+  {
+    "symbol": "XMY-USD",
+    "currency": "Myriad USD",
+    "($USD)price": "0.0062",
+    "dollar_price_change": "+0.0001",
+    "percentage_change": "+1.39%",
+    "market_capitalization": "10.895M",
+    "total_volume_in_all_currencies": "52,155"
+  },
+  {
+    "symbol": "CTC-USD",
+    "currency": "CreditTagChain USD",
+    "($USD)price": "0.1821",
+    "dollar_price_change": "+0.0038",
+    "percentage_change": "+2.12%",
+    "market_capitalization": "10.881M",
+    "total_volume_in_all_currencies": "0"
+  },
+  {
+    "symbol": "ACT-USD",
+    "currency": "Achain USD",
+    "($USD)price": "0.0108",
+    "dollar_price_change": "+0.0005",
+    "percentage_change": "+4.50%",
+    "market_capitalization": "10.631M",
+    "total_volume_in_all_currencies": "1.99M"
+  },
+  {
+    "symbol": "MINT-USD",
+    "currency": "MintCoin USD",
+    "($USD)price": "0.0004",
+    "dollar_price_change": "-0.0001",
+    "percentage_change": "-17.49%",
+    "market_capitalization": "10.488M",
+    "total_volume_in_all_currencies": "632"
+  },
+  {
+    "symbol": "MINT-USD",
+    "currency": "MintCoin USD",
+    "($USD)price": "0.0004",
+    "dollar_price_change": "-0.0001",
+    "percentage_change": "-17.49%",
+    "market_capitalization": "10.488M",
+    "total_volume_in_all_currencies": "632"
+  },
+  {
+    "symbol": "FTC-USD",
+    "currency": "Feathercoin USD",
+    "($USD)price": "0.0443",
+    "dollar_price_change": "+0.0010",
+    "percentage_change": "+2.26%",
+    "market_capitalization": "10.486M",
+    "total_volume_in_all_currencies": "38,768"
+  },
+  {
+    "symbol": "SCC1-USD",
+    "currency": "StakeCubeCoin USD",
+    "($USD)price": "1.2992",
+    "dollar_price_change": "+0.2038",
+    "percentage_change": "+18.60%",
+    "market_capitalization": "10.463M",
+    "total_volume_in_all_currencies": "2,757"
+  },
+  {
+    "symbol": "CMT2-USD",
+    "currency": "CyberMiles USD",
+    "($USD)price": "0.0128",
+    "dollar_price_change": "-0.0014",
+    "percentage_change": "-9.83%",
+    "market_capitalization": "10.278M",
+    "total_volume_in_all_currencies": "2.619M"
+  },
+  {
+    "symbol": "SCC5-USD",
+    "currency": "StakeCubeCoin USD",
+    "($USD)price": "1.2707",
+    "dollar_price_change": "+0.1887",
+    "percentage_change": "+17.44%",
+    "market_capitalization": "10.233M",
+    "total_volume_in_all_currencies": "3,092"
+  },
+  {
+    "symbol": "CMT1-USD",
+    "currency": "CyberMiles USD",
+    "($USD)price": "0.0124",
+    "dollar_price_change": "-0.0002",
+    "percentage_change": "-1.45%",
+    "market_capitalization": "9.896M",
+    "total_volume_in_all_currencies": "1.975M"
+  },
+  {
+    "symbol": "NLG-USD",
+    "currency": "Gulden USD",
+    "($USD)price": "0.0178",
+    "dollar_price_change": "+0.0006",
+    "percentage_change": "+3.61%",
+    "market_capitalization": "9.574M",
+    "total_volume_in_all_currencies": "20,370"
+  },
+  {
+    "symbol": "SCC2-USD",
+    "currency": "StakeCubeCoin USD",
+    "($USD)price": "1.1809",
+    "dollar_price_change": "+0.0784",
+    "percentage_change": "+7.11%",
+    "market_capitalization": "9.51M",
+    "total_volume_in_all_currencies": "2,574"
+  },
+  {
+    "symbol": "XST-USD",
+    "currency": "Stealth USD",
+    "($USD)price": "0.2452",
+    "dollar_price_change": "-0.0040",
+    "percentage_change": "-1.59%",
+    "market_capitalization": "9.5M",
+    "total_volume_in_all_currencies": "10,230"
+  },
+  {
+    "symbol": "SMART-USD",
+    "currency": "SmartCash USD",
+    "($USD)price": "0.0066",
+    "dollar_price_change": "+0.0003",
+    "percentage_change": "+4.80%",
+    "market_capitalization": "9.396M",
+    "total_volume_in_all_currencies": "80,305"
+  },
+  {
+    "symbol": "VRA-USD",
+    "currency": "Verasity USD",
+    "($USD)price": "0.0024",
+    "dollar_price_change": "-0.0002",
+    "percentage_change": "-8.19%",
+    "market_capitalization": "9.206M",
+    "total_volume_in_all_currencies": "1.169M"
+  },
+  {
+    "symbol": "XDN-USD",
+    "currency": "DigitalNote USD",
+    "($USD)price": "0.0019",
+    "dollar_price_change": "+0.0000",
+    "percentage_change": "+0.90%",
+    "market_capitalization": "9.115M",
+    "total_volume_in_all_currencies": "57,807"
+  },
+  {
+    "symbol": "DCN-USD",
+    "currency": "Dentacoin USD",
+    "($USD)price": "0.0000",
+    "dollar_price_change": "+0.0000",
+    "percentage_change": "+8.97%",
+    "market_capitalization": "8.981M",
+    "total_volume_in_all_currencies": "150,183"
+  },
+  {
+    "symbol": "SCC3-USD",
+    "currency": "StakeCubeCoin USD",
+    "($USD)price": "1.1157",
+    "dollar_price_change": "-0.0300",
+    "percentage_change": "-2.62%",
+    "market_capitalization": "8.985M",
+    "total_volume_in_all_currencies": "2,814"
+  },
+  {
+    "symbol": "BURST-USD",
+    "currency": "Burst USD",
+    "($USD)price": "0.0042",
+    "dollar_price_change": "+0.0005",
+    "percentage_change": "+13.72%",
+    "market_capitalization": "8.909M",
+    "total_volume_in_all_currencies": "5,782"
+  },
+  {
+    "symbol": "FO-USD",
+    "currency": "FIBOS USD",
+    "($USD)price": "0.0083",
+    "dollar_price_change": "-0.0001",
+    "percentage_change": "-0.67%",
+    "market_capitalization": "8.891M",
+    "total_volume_in_all_currencies": "274,424"
+  },
+  {
+    "symbol": "PART-USD",
+    "currency": "Particl USD",
+    "($USD)price": "0.9136",
+    "dollar_price_change": "-0.0338",
+    "percentage_change": "-3.56%",
+    "market_capitalization": "8.892M",
+    "total_volume_in_all_currencies": "20,081"
+  },
+  {
+    "symbol": "SCC4-USD",
+    "currency": "StakeCubeCoin USD",
+    "($USD)price": "1.1005",
+    "dollar_price_change": "-0.2001",
+    "percentage_change": "-15.39%",
+    "market_capitalization": "8.862M",
+    "total_volume_in_all_currencies": "3,344"
+  },
+  {
+    "symbol": "ZEL-USD",
+    "currency": "ZelCash USD",
+    "($USD)price": "0.0705",
+    "dollar_price_change": "-0.0021",
+    "percentage_change": "-2.83%",
+    "market_capitalization": "8.632M",
+    "total_volume_in_all_currencies": "1.081M"
+  },
+  {
+    "symbol": "FLO-USD",
+    "currency": "FLO USD",
+    "($USD)price": "0.0556",
+    "dollar_price_change": "+0.0122",
+    "percentage_change": "+28.11%",
+    "market_capitalization": "8.476M",
+    "total_volume_in_all_currencies": "180,569"
+  },
+  {
+    "symbol": "VAL2-USD",
+    "currency": "Validity USD",
+    "($USD)price": "1.9705",
+    "dollar_price_change": "+0.1306",
+    "percentage_change": "+7.10%",
+    "market_capitalization": "8.324M",
+    "total_volume_in_all_currencies": "162,259"
+  },
+  {
+    "symbol": "MRX-USD",
+    "currency": "MetrixCoin USD",
+    "($USD)price": "0.0005",
+    "dollar_price_change": "+0.0000",
+    "percentage_change": "+1.03%",
+    "market_capitalization": "8.192M",
+    "total_volume_in_all_currencies": "0"
+  },
+  {
+    "symbol": "NIX-USD",
+    "currency": "NIX USD",
+    "($USD)price": "0.1649",
+    "dollar_price_change": "+0.0278",
+    "percentage_change": "+20.28%",
+    "market_capitalization": "8.06M",
+    "total_volume_in_all_currencies": "68,593"
+  },
+  {
+    "symbol": "VAL1-USD",
+    "currency": "Validity USD",
+    "($USD)price": "1.8937",
+    "dollar_price_change": "-0.0629",
+    "percentage_change": "-3.21%",
+    "market_capitalization": "8.001M",
+    "total_volume_in_all_currencies": "115,874"
+  },
+  {
+    "symbol": "HPB-USD",
+    "currency": "HighPerformanceBlockchain USD",
+    "($USD)price": "0.1089",
+    "dollar_price_change": "+0.0025",
+    "percentage_change": "+2.32%",
+    "market_capitalization": "7.954M",
+    "total_volume_in_all_currencies": "605,928"
+  },
+  {
+    "symbol": "SNM-USD",
+    "currency": "SONM USD",
+    "($USD)price": "0.0206",
+    "dollar_price_change": "-0.0002",
+    "percentage_change": "-1.15%",
+    "market_capitalization": "7.402M",
+    "total_volume_in_all_currencies": "433,646"
+  },
+  {
+    "symbol": "WGR-USD",
+    "currency": "Wagerr USD",
+    "($USD)price": "0.0388",
+    "dollar_price_change": "+0.0039",
+    "percentage_change": "+11.28%",
+    "market_capitalization": "7.562M",
+    "total_volume_in_all_currencies": "7,389"
+  },
+  {
+    "symbol": "DMD-USD",
+    "currency": "Diamond USD",
+    "($USD)price": "2.0955",
+    "dollar_price_change": "+0.2891",
+    "percentage_change": "+16.00%",
+    "market_capitalization": "7.493M",
+    "total_volume_in_all_currencies": "3,101"
+  },
+  {
+    "symbol": "BTX-USD",
+    "currency": "Bitcore USD",
+    "($USD)price": "0.4106",
+    "dollar_price_change": "-0.0012",
+    "percentage_change": "-0.28%",
+    "market_capitalization": "7.41M",
+    "total_volume_in_all_currencies": "7,195"
+  },
+  {
+    "symbol": "SNGLS-USD",
+    "currency": "SingularDTV USD",
+    "($USD)price": "0.0117",
+    "dollar_price_change": "+0.0002",
+    "percentage_change": "+1.81%",
+    "market_capitalization": "7.03M",
+    "total_volume_in_all_currencies": "304,837"
+  },
+  {
+    "symbol": "PHR-USD",
+    "currency": "Phore USD",
+    "($USD)price": "0.3062",
+    "dollar_price_change": "+0.0074",
+    "percentage_change": "+2.48%",
+    "market_capitalization": "7.167M",
+    "total_volume_in_all_currencies": "29,041"
+  },
+  {
+    "symbol": "MOON-USD",
+    "currency": "Mooncoin USD",
+    "($USD)price": "0.0000",
+    "dollar_price_change": "+0.0000",
+    "percentage_change": "+4.08%",
+    "market_capitalization": "6.841M",
+    "total_volume_in_all_currencies": "142"
+  },
+  {
+    "symbol": "XMC-USD",
+    "currency": "MoneroClassic USD",
+    "($USD)price": "0.3554",
+    "dollar_price_change": "-0.0046",
+    "percentage_change": "-1.28%",
+    "market_capitalization": "6.816M",
+    "total_volume_in_all_currencies": "24,312"
+  },
+  {
+    "symbol": "TAAS-USD",
+    "currency": "TaaS USD",
+    "($USD)price": "0.8373",
+    "dollar_price_change": "-0.2204",
+    "percentage_change": "-20.83%",
+    "market_capitalization": "6.821M",
+    "total_volume_in_all_currencies": "762"
+  },
+  {
+    "symbol": "LCC-USD",
+    "currency": "LitecoinCash USD",
+    "($USD)price": "0.0095",
+    "dollar_price_change": "+0.0005",
+    "percentage_change": "+5.41%",
+    "market_capitalization": "6.805M",
+    "total_volume_in_all_currencies": "3,641"
+  },
+  {
+    "symbol": "HTDF-USD",
+    "currency": "OrientWalt USD",
+    "($USD)price": "0.0732",
+    "dollar_price_change": "+0.0014",
+    "percentage_change": "+2.02%",
+    "market_capitalization": "6.801M",
+    "total_volume_in_all_currencies": "994,924"
+  },
+  {
+    "symbol": "AEON-USD",
+    "currency": "Aeon USD",
+    "($USD)price": "0.4265",
+    "dollar_price_change": "-0.0065",
+    "percentage_change": "-1.50%",
+    "market_capitalization": "6.752M",
+    "total_volume_in_all_currencies": "12,662"
+  },
+  {
+    "symbol": "XCP-USD",
+    "currency": "Counterparty USD",
+    "($USD)price": "2.4860",
+    "dollar_price_change": "+0.1559",
+    "percentage_change": "+6.69%",
+    "market_capitalization": "6.501M",
+    "total_volume_in_all_currencies": "2,371"
+  },
+  {
+    "symbol": "LKK-USD",
+    "currency": "Lykke USD",
+    "($USD)price": "0.0200",
+    "dollar_price_change": "+0.0015",
+    "percentage_change": "+8.22%",
+    "market_capitalization": "6.34M",
+    "total_volume_in_all_currencies": "6,114"
+  },
+  {
+    "symbol": "SCP-USD",
+    "currency": "ScPrime USD",
+    "($USD)price": "0.1888",
+    "dollar_price_change": "+0.0037",
+    "percentage_change": "+1.98%",
+    "market_capitalization": "6.251M",
+    "total_volume_in_all_currencies": "4,178"
+  },
+  {
+    "symbol": "ILC-USD",
+    "currency": "ILCoin USD",
+    "($USD)price": "0.0095",
+    "dollar_price_change": "+0.0002",
+    "percentage_change": "+2.15%",
+    "market_capitalization": "6.123M",
+    "total_volume_in_all_currencies": "249,195"
+  },
+  {
+    "symbol": "COLX-USD",
+    "currency": "ColossusXT USD",
+    "($USD)price": "0.0005",
+    "dollar_price_change": "+0.0000",
+    "percentage_change": "+1.03%",
+    "market_capitalization": "5.924M",
+    "total_volume_in_all_currencies": "366"
+  },
+  {
+    "symbol": "DUN-USD",
+    "currency": "DuneNetwork USD",
+    "($USD)price": "0.0123",
+    "dollar_price_change": "+0.0018",
+    "percentage_change": "+17.25%",
+    "market_capitalization": "5.414M",
+    "total_volume_in_all_currencies": "7,558"
+  },
+  {
+    "symbol": "TERA-USD",
+    "currency": "TERA USD",
+    "($USD)price": "0.0066",
+    "dollar_price_change": "+0.0003",
+    "percentage_change": "+4.21%",
+    "market_capitalization": "5.55M",
+    "total_volume_in_all_currencies": "90,313"
+  },
+  {
+    "symbol": "OTO-USD",
+    "currency": "OTOCASH USD",
+    "($USD)price": "0.1408",
+    "dollar_price_change": "-0.0008",
+    "percentage_change": "-0.53%",
+    "market_capitalization": "5.183M",
+    "total_volume_in_all_currencies": "9,622"
+  },
+  {
+    "symbol": "IDNA-USD",
+    "currency": "Idena USD",
+    "($USD)price": "0.1334",
+    "dollar_price_change": "-0.0049",
+    "percentage_change": "-3.55%",
+    "market_capitalization": "5.038M",
+    "total_volume_in_all_currencies": "39,200"
+  },
+  {
+    "symbol": "MIR-USD",
+    "currency": "MIRCOIN USD",
+    "($USD)price": "0.0064",
+    "dollar_price_change": "+0.0001",
+    "percentage_change": "+2.35%",
+    "market_capitalization": "4.987M",
+    "total_volume_in_all_currencies": "405,294"
+  },
+  {
+    "symbol": "BPC-USD",
+    "currency": "BackPackerCoin USD",
+    "($USD)price": "0.7962",
+    "dollar_price_change": "+0.0081",
+    "percentage_change": "+1.03%",
+    "market_capitalization": "4.964M",
+    "total_volume_in_all_currencies": "32,886"
+  },
+  {
+    "symbol": "MAN-USD",
+    "currency": "MatrixAINetwork USD",
+    "($USD)price": "0.0230",
+    "dollar_price_change": "-0.0019",
+    "percentage_change": "-7.55%",
+    "market_capitalization": "4.939M",
+    "total_volume_in_all_currencies": "271,407"
+  },
+  {
+    "symbol": "BLK-USD",
+    "currency": "BlackCoin USD",
+    "($USD)price": "0.0793",
+    "dollar_price_change": "+0.0199",
+    "percentage_change": "+33.53%",
+    "market_capitalization": "4.797M",
+    "total_volume_in_all_currencies": "47,591"
+  },
+  {
+    "symbol": "DTEP-USD",
+    "currency": "DECOIN USD",
+    "($USD)price": "0.0848",
+    "dollar_price_change": "+0.0061",
+    "percentage_change": "+7.70%",
+    "market_capitalization": "4.609M",
+    "total_volume_in_all_currencies": "334,747"
+  },
+  {
+    "symbol": "POLIS-USD",
+    "currency": "Polis USD",
+    "($USD)price": "0.4413",
+    "dollar_price_change": "-0.0534",
+    "percentage_change": "-10.80%",
+    "market_capitalization": "4.338M",
+    "total_volume_in_all_currencies": "14,448"
+  },
+  {
+    "symbol": "WINGS-USD",
+    "currency": "Wings USD",
+    "($USD)price": "0.0430",
+    "dollar_price_change": "-0.0011",
+    "percentage_change": "-2.55%",
+    "market_capitalization": "4.302M",
+    "total_volume_in_all_currencies": "20,605"
+  },
+  {
+    "symbol": "VEX-USD",
+    "currency": "Vexanium USD",
+    "($USD)price": "0.0059",
+    "dollar_price_change": "-0.0000",
+    "percentage_change": "-0.34%",
+    "market_capitalization": "4.3M",
+    "total_volume_in_all_currencies": "365,604"
+  },
+  {
+    "symbol": "TUBE-USD",
+    "currency": "BitTube USD",
+    "($USD)price": "0.0149",
+    "dollar_price_change": "+0.0001",
+    "percentage_change": "+0.82%",
+    "market_capitalization": "4.285M",
+    "total_volume_in_all_currencies": "7,814"
+  },
+  {
+    "symbol": "CHI-USD",
+    "currency": "Xaya USD",
+    "($USD)price": "0.0867",
+    "dollar_price_change": "-0.0034",
+    "percentage_change": "-3.77%",
+    "market_capitalization": "3.968M",
+    "total_volume_in_all_currencies": "5,456"
+  },
+  {
+    "symbol": "FLASH-USD",
+    "currency": "Flash USD",
+    "($USD)price": "0.0042",
+    "dollar_price_change": "-0.0004",
+    "percentage_change": "-8.94%",
+    "market_capitalization": "3.789M",
+    "total_volume_in_all_currencies": "698"
+  },
+  {
+    "symbol": "INT-USD",
+    "currency": "InternetNodeToken USD",
+    "($USD)price": "0.0084",
+    "dollar_price_change": "+0.0004",
+    "percentage_change": "+4.74%",
+    "market_capitalization": "3.769M",
+    "total_volume_in_all_currencies": "1.227M"
+  },
+  {
+    "symbol": "INSTAR-USD",
+    "currency": "InsightsNetwork USD",
+    "($USD)price": "0.0187",
+    "dollar_price_change": "+0.0017",
+    "percentage_change": "+10.32%",
+    "market_capitalization": "3.679M",
+    "total_volume_in_all_currencies": "19,741"
+  },
+  {
+    "symbol": "NLC2-USD",
+    "currency": "NoLimitCoin USD",
+    "($USD)price": "0.0058",
+    "dollar_price_change": "-0.0002",
+    "percentage_change": "-2.79%",
+    "market_capitalization": "3.63M",
+    "total_volume_in_all_currencies": "4,018"
+  },
+  {
+    "symbol": "HTML-USD",
+    "currency": "HTMLCOIN USD",
+    "($USD)price": "0.0001",
+    "dollar_price_change": "+0.0000",
+    "percentage_change": "+15.74%",
+    "market_capitalization": "3.553M",
+    "total_volume_in_all_currencies": "7,198"
+  },
+  {
+    "symbol": "XLQ-USD",
+    "currency": "ALQO USD",
+    "($USD)price": "0.0542",
+    "dollar_price_change": "-0.0106",
+    "percentage_change": "-16.39%",
+    "market_capitalization": "3.507M",
+    "total_volume_in_all_currencies": "571"
+  },
+  {
+    "symbol": "BST-USD",
+    "currency": "BlockStamp USD",
+    "($USD)price": "0.1309",
+    "dollar_price_change": "+0.0232",
+    "percentage_change": "+21.59%",
+    "market_capitalization": "3.497M",
+    "total_volume_in_all_currencies": "6"
+  },
+  {
+    "symbol": "CRW-USD",
+    "currency": "Crown USD",
+    "($USD)price": "0.1312",
+    "dollar_price_change": "+0.0040",
+    "percentage_change": "+3.16%",
+    "market_capitalization": "3.496M",
+    "total_volume_in_all_currencies": "8,728"
+  },
+  {
+    "symbol": "XRC-USD",
+    "currency": "BitcoinRhodium USD",
+    "($USD)price": "2.7518",
+    "dollar_price_change": "+0.0323",
+    "percentage_change": "+1.19%",
+    "market_capitalization": "3.434M",
+    "total_volume_in_all_currencies": "1,528"
+  },
+  {
+    "symbol": "FAIR-USD",
+    "currency": "FairCoin USD",
+    "($USD)price": "0.0644",
+    "dollar_price_change": "-0.0022",
+    "percentage_change": "-3.30%",
+    "market_capitalization": "3.423M",
+    "total_volume_in_all_currencies": "14,562"
+  },
+  {
+    "symbol": "MGO-USD",
+    "currency": "MobileGo USD",
+    "($USD)price": "0.0338",
+    "dollar_price_change": "-0.0060",
+    "percentage_change": "-15.04%",
+    "market_capitalization": "3.38M",
+    "total_volume_in_all_currencies": "4.762M"
+  },
+  {
+    "symbol": "QRK-USD",
+    "currency": "Quark USD",
+    "($USD)price": "0.0124",
+    "dollar_price_change": "-0.0001",
+    "percentage_change": "-0.65%",
+    "market_capitalization": "3.339M",
+    "total_volume_in_all_currencies": "646"
+  },
+  {
+    "symbol": "MIDAS-USD",
+    "currency": "Midas USD",
+    "($USD)price": "2.4530",
+    "dollar_price_change": "+0.4648",
+    "percentage_change": "+23.38%",
+    "market_capitalization": "3.299M",
+    "total_volume_in_all_currencies": "651"
+  },
+  {
+    "symbol": "PMEER-USD",
+    "currency": "Pmeer USD",
+    "($USD)price": "0.0209",
+    "dollar_price_change": "-0.0003",
+    "percentage_change": "-1.43%",
+    "market_capitalization": "3.295M",
+    "total_volume_in_all_currencies": "338,953"
+  },
+  {
+    "symbol": "BLK-USD",
+    "currency": "BlackCoin USD",
+    "($USD)price": "0.0793",
+    "dollar_price_change": "+0.0199",
+    "percentage_change": "+33.53%",
+    "market_capitalization": "4.797M",
+    "total_volume_in_all_currencies": "47,591"
+  },
+  {
+    "symbol": "GHOST-USD",
+    "currency": "GHOSTPRISM USD",
+    "($USD)price": "0.8313",
+    "dollar_price_change": "-0.1284",
+    "percentage_change": "-13.38%",
+    "market_capitalization": "3.107M",
+    "total_volume_in_all_currencies": "55"
+  },
+  {
+    "symbol": "NYZO-USD",
+    "currency": "Nyzo USD",
+    "($USD)price": "0.2585",
+    "dollar_price_change": "-0.0169",
+    "percentage_change": "-6.14%",
+    "market_capitalization": "3.081M",
+    "total_volume_in_all_currencies": "245,074"
+  },
+  {
+    "symbol": "RADS-USD",
+    "currency": "Radium USD",
+    "($USD)price": "0.6955",
+    "dollar_price_change": "-0.0587",
+    "percentage_change": "-7.78%",
+    "market_capitalization": "2.908M",
+    "total_volume_in_all_currencies": "122,722"
+  },
+  {
+    "symbol": "HYC-USD",
+    "currency": "HYCON USD",
+    "($USD)price": "0.0010",
+    "dollar_price_change": "+0.0000",
+    "percentage_change": "+0.25%",
+    "market_capitalization": "2.748M",
+    "total_volume_in_all_currencies": "481,798"
+  },
+  {
+    "symbol": "ERK-USD",
+    "currency": "EurekaCoin USD",
+    "($USD)price": "0.0405",
+    "dollar_price_change": "+0.0112",
+    "percentage_change": "+38.42%",
+    "market_capitalization": "2.691M",
+    "total_volume_in_all_currencies": "56,952"
+  },
+  {
+    "symbol": "ALIAS-USD",
+    "currency": "Alias USD",
+    "($USD)price": "0.1018",
+    "dollar_price_change": "-0.0253",
+    "percentage_change": "-19.91%",
+    "market_capitalization": "2.673M",
+    "total_volume_in_all_currencies": "94"
+  },
+  {
+    "symbol": "SONO1-USD",
+    "currency": "SonoCoin USD",
+    "($USD)price": "0.0901",
+    "dollar_price_change": "+0.0001",
+    "percentage_change": "+0.13%",
+    "market_capitalization": "2.544M",
+    "total_volume_in_all_currencies": "0"
+  },
+  {
+    "symbol": "DIME-USD",
+    "currency": "Dimecoin USD",
+    "($USD)price": "0.0000",
+    "dollar_price_change": "+0.0000",
+    "percentage_change": "+10.22%",
+    "market_capitalization": "2.507M",
+    "total_volume_in_all_currencies": "438"
+  },
+  {
+    "symbol": "ZVC-USD",
+    "currency": "ZVCHAIN USD",
+    "($USD)price": "0.0027",
+    "dollar_price_change": "-0.0000",
+    "percentage_change": "-0.06%",
+    "market_capitalization": "2.441M",
+    "total_volume_in_all_currencies": "0"
+  },
+  {
+    "symbol": "SONO2-USD",
+    "currency": "SonoCoin USD",
+    "($USD)price": "0.0850",
+    "dollar_price_change": "-0.0001",
+    "percentage_change": "-0.11%",
+    "market_capitalization": "2.4M",
+    "total_volume_in_all_currencies": "0"
+  },
+  {
+    "symbol": "GCC2-USD",
+    "currency": "GlobalCryptocurrency USD",
+    "($USD)price": "0.0019",
+    "dollar_price_change": "-0.0002",
+    "percentage_change": "-8.19%",
+    "market_capitalization": "2.398M",
+    "total_volume_in_all_currencies": "0"
+  },
+  {
+    "symbol": "USNBT-USD",
+    "currency": "NuBits USD",
+    "($USD)price": "0.2155",
+    "dollar_price_change": "-0.1216",
+    "percentage_change": "-36.06%",
+    "market_capitalization": "2.367M",
+    "total_volume_in_all_currencies": "16,360"
+  },
+  {
+    "symbol": "OWC-USD",
+    "currency": "ODUWA USD",
+    "($USD)price": "0.5469",
+    "dollar_price_change": "-0.0131",
+    "percentage_change": "-2.33%",
+    "market_capitalization": "2.291M",
+    "total_volume_in_all_currencies": "15,341"
+  },
+  {
+    "symbol": "GHOST2-USD",
+    "currency": "GHOST USD",
+    "($USD)price": "0.1487",
+    "dollar_price_change": "-0.0221",
+    "percentage_change": "-12.92%",
+    "market_capitalization": "2.267M",
+    "total_volume_in_all_currencies": "227,640"
+  },
+  {
+    "symbol": "GHOST1-USD",
+    "currency": "GHOST USD",
+    "($USD)price": "0.1482",
+    "dollar_price_change": "+0.0069",
+    "percentage_change": "+4.91%",
+    "market_capitalization": "2.26M",
+    "total_volume_in_all_currencies": "188,824"
+  },
+  {
+    "symbol": "XAS-USD",
+    "currency": "Asch USD",
+    "($USD)price": "0.0196",
+    "dollar_price_change": "-0.0018",
+    "percentage_change": "-8.36%",
+    "market_capitalization": "1.828M",
+    "total_volume_in_all_currencies": "13,875"
+  },
+  {
+    "symbol": "VIN-USD",
+    "currency": "VINchain USD",
+    "($USD)price": "0.0036",
+    "dollar_price_change": "+0.0006",
+    "percentage_change": "+18.50%",
+    "market_capitalization": "2.104M",
+    "total_volume_in_all_currencies": "187,231"
+  },
+  {
+    "symbol": "CURE-USD",
+    "currency": "Curecoin USD",
+    "($USD)price": "0.0813",
+    "dollar_price_change": "+0.0068",
+    "percentage_change": "+9.05%",
+    "market_capitalization": "2.027M",
+    "total_volume_in_all_currencies": "846"
+  },
+  {
+    "symbol": "IOC-USD",
+    "currency": "IOCoin USD",
+    "($USD)price": "0.1081",
+    "dollar_price_change": "-0.0021",
+    "percentage_change": "-1.88%",
+    "market_capitalization": "2.023M",
+    "total_volume_in_all_currencies": "3,631"
+  },
+  {
+    "symbol": "XBY-USD",
+    "currency": "XTRABYTES USD",
+    "($USD)price": "0.0047",
+    "dollar_price_change": "-0.0004",
+    "percentage_change": "-8.00%",
+    "market_capitalization": "2.012M",
+    "total_volume_in_all_currencies": "23"
+  },
+  {
+    "symbol": "GCC1-USD",
+    "currency": "GlobalCryptocurrency USD",
+    "($USD)price": "0.0014",
+    "dollar_price_change": "-0.0004",
+    "percentage_change": "-24.12%",
+    "market_capitalization": "1.779M",
+    "total_volume_in_all_currencies": "724"
+  },
+  {
+    "symbol": "CPS-USD",
+    "currency": "Capricoin USD",
+    "($USD)price": "0.0075",
+    "dollar_price_change": "+0.0009",
+    "percentage_change": "+13.07%",
+    "market_capitalization": "1.711M",
+    "total_volume_in_all_currencies": "0"
+  },
+  {
+    "symbol": "SUB-USD",
+    "currency": "Substratum USD",
+    "($USD)price": "0.0026",
+    "dollar_price_change": "-0.0001",
+    "percentage_change": "-3.95%",
+    "market_capitalization": "982,733",
+    "total_volume_in_all_currencies": "2,891"
+  },
+  {
+    "symbol": "DDK-USD",
+    "currency": "DDKoin USD",
+    "($USD)price": "0.5170",
+    "dollar_price_change": "-0.0026",
+    "percentage_change": "-0.50%",
+    "market_capitalization": "884,130",
+    "total_volume_in_all_currencies": "12,206"
+  },
+  {
+    "symbol": "BCA-USD",
+    "currency": "BitcoinAtom USD",
+    "($USD)price": "0.0401",
+    "dollar_price_change": "-0.0462",
+    "percentage_change": "-53.49%",
+    "market_capitalization": "739,342",
+    "total_volume_in_all_currencies": "101"
+  },
+  {
+    "symbol": "EDG-USD",
+    "currency": "Edgeless USD",
+    "($USD)price": "0.0043",
+    "dollar_price_change": "-0.0013",
+    "percentage_change": "-23.33%",
+    "market_capitalization": "531,254",
+    "total_volume_in_all_currencies": "1,311"
+  },
+  {
+    "symbol": "NPC-USD",
+    "currency": "NPCoin USD",
+    "($USD)price": "0.0033",
+    "dollar_price_change": "-0.0014",
+    "percentage_change": "-29.35%",
+    "market_capitalization": "237,121",
+    "total_volume_in_all_currencies": "96"
+  },
+  {
+    "symbol": "HSS-USD",
+    "currency": "Hashshare USD",
+    "($USD)price": "0.0016",
+    "dollar_price_change": "+0.0000",
+    "percentage_change": "+0.11%",
+    "market_capitalization": "226,475",
+    "total_volume_in_all_currencies": "109"
+  },
+  {
+    "symbol": "DEV-USD",
+    "currency": "DeviantCoin USD",
+    "($USD)price": "0.0049",
+    "dollar_price_change": "-1.6095",
+    "percentage_change": "-99.70%",
+    "market_capitalization": "152,114",
+    "total_volume_in_all_currencies": "286"
+  },
+  {
+    "symbol": "OURO-USD",
+    "currency": "Ouroboros USD",
+    "($USD)price": "0.0043",
+    "dollar_price_change": "-0.0001",
+    "percentage_change": "-2.27%",
+    "market_capitalization": "134,576",
+    "total_volume_in_all_currencies": "3,333"
+  },
+  {
+    "symbol": "FRST-USD",
+    "currency": "FirstCoin USD",
+    "($USD)price": "0.0026",
+    "dollar_price_change": "-0.0006",
+    "percentage_change": "-19.83%",
+    "market_capitalization": "81,139",
+    "total_volume_in_all_currencies": "0"
+  },
+  {
+    "symbol": "ATB-USD",
+    "currency": "ATBCoin USD",
+    "($USD)price": "0.0014",
+    "dollar_price_change": "+0.0000",
+    "percentage_change": "+1.10%",
+    "market_capitalization": "58,998",
+    "total_volume_in_all_currencies": "0"
+  },
+  {
+    "symbol": "COMP1-USD",
+    "currency": "CompoundCoin USD",
+    "($USD)price": "0.0000",
+    "dollar_price_change": "+0.0000",
+    "percentage_change": "+12.37%",
+    "market_capitalization": "45,539",
+    "total_volume_in_all_currencies": "373"
+  },
+  {
+    "symbol": "COMP2-USD",
+    "currency": "CompoundCoin USD",
+    "($USD)price": "0.0000",
+    "dollar_price_change": "-0.0000",
+    "percentage_change": "-21.94%",
+    "market_capitalization": "43,171",
+    "total_volume_in_all_currencies": "243"
+  },
+  {
+    "symbol": "EDC-USD",
+    "currency": "EDCBlockchain USD",
+    "($USD)price": "0.0000",
+    "dollar_price_change": "0.0000",
+    "percentage_change": "0.00%",
+    "market_capitalization": "0",
+    "total_volume_in_all_currencies": "0"
+  },
+  {
+    "symbol": "MOAC-USD",
+    "currency": "MOAC USD",
+    "($USD)price": "0.5364",
+    "dollar_price_change": "+0.1401",
+    "percentage_change": "+35.34%",
+    "market_capitalization": "0",
+    "total_volume_in_all_currencies": "0"
+  },
+  {
+    "symbol": "ECC-USD",
+    "currency": "ECC USD",
+    "($USD)price": "0.0005",
+    "dollar_price_change": "+0.0000",
+    "percentage_change": "+1.03%",
+    "market_capitalization": "0",
+    "total_volume_in_all_currencies": "0"
+  },
+  {
+    "symbol": "BONO-USD",
+    "currency": "Bonorum USD",
+    "($USD)price": "29.46",
+    "dollar_price_change": "+0.30",
+    "percentage_change": "+1.03%",
+    "market_capitalization": "0",
+    "total_volume_in_all_currencies": "1,238"
+  },
+  {
+    "symbol": "ECA-USD",
+    "currency": "Electra USD",
+    "($USD)price": "0.0000",
+    "dollar_price_change": "-0.0000",
+    "percentage_change": "-30.11%",
+    "market_capitalization": "0",
+    "total_volume_in_all_currencies": "29"
+  },
+  {
+    "symbol": "UNO-USD",
+    "currency": "Unobtanium USD",
+    "($USD)price": "64.91",
+    "dollar_price_change": "-29.12",
+    "percentage_change": "-30.97%",
+    "market_capitalization": "0",
+    "total_volume_in_all_currencies": "2,159"
+  },
+  {
+    "symbol": "CLAM-USD",
+    "currency": "Clams USD",
+    "($USD)price": "1.3355",
+    "dollar_price_change": "+0.0038",
+    "percentage_change": "+0.29%",
+    "market_capitalization": "0",
+    "total_volume_in_all_currencies": "0"
+  },
+  {
+    "symbol": "AIB-USD",
+    "currency": "AdvancedInternetBlocks USD",
+    "($USD)price": "0.0176",
+    "dollar_price_change": "+0.0000",
+    "percentage_change": "+0.14%",
+    "market_capitalization": "0",
+    "total_volume_in_all_currencies": "13,943"
+  },
+  {
+    "symbol": "MBC-USD",
+    "currency": "MicroBitcoin USD",
+    "($USD)price": "0.0000",
+    "dollar_price_change": "-0.0000",
+    "percentage_change": "-12.58%",
+    "market_capitalization": "0",
+    "total_volume_in_all_currencies": "839"
+  },
+  {
+    "symbol": "XUC-USD",
+    "currency": "ExchangeUnion USD",
+    "($USD)price": "0.8094",
+    "dollar_price_change": "-0.0036",
+    "percentage_change": "-0.44%",
+    "market_capitalization": "0",
+    "total_volume_in_all_currencies": "480,460"
+  },
+  {
+    "symbol": "RBY-USD",
+    "currency": "Rubycoin USD",
+    "($USD)price": "0.1519",
+    "dollar_price_change": "+0.0015",
+    "percentage_change": "+1.03%",
+    "market_capitalization": "0",
+    "total_volume_in_all_currencies": "0"
+  },
+  {
+    "symbol": "RSTR-USD",
+    "currency": "Ondori USD",
+    "($USD)price": "0.0000",
+    "dollar_price_change": "0.0000",
+    "percentage_change": "0.00%",
+    "market_capitalization": "0",
+    "total_volume_in_all_currencies": "0"
+  },
+  {
+    "symbol": "XNS2-USD",
+    "currency": "Insolar USD",
+    "($USD)price": "0.0003",
+    "dollar_price_change": "-0.0005",
+    "percentage_change": "-60.84%",
+    "market_capitalization": "0",
+    "total_volume_in_all_currencies": "39,474"
+  },
+  {
+    "symbol": "DCY-USD",
+    "currency": "Dinastycoin USD",
+    "($USD)price": "0.0036",
+    "dollar_price_change": "-0.0006",
+    "percentage_change": "-15.27%",
+    "market_capitalization": "0",
+    "total_volume_in_all_currencies": "821"
+  },
+  {
+    "symbol": "SHIFT-USD",
+    "currency": "Shift USD",
+    "($USD)price": "1.5912",
+    "dollar_price_change": "+1.4513",
+    "percentage_change": "+1,037.13%",
+    "market_capitalization": "0",
+    "total_volume_in_all_currencies": "32"
+  },
+  {
+    "symbol": "JDC-USD",
+    "currency": "JDCoin USD",
+    "($USD)price": "0.1340",
+    "dollar_price_change": "+0.0053",
+    "percentage_change": "+4.09%",
+    "market_capitalization": "0",
+    "total_volume_in_all_currencies": "84,101"
+  },
+  {
+    "symbol": "XNS1-USD",
+    "currency": "Insolar USD",
+    "($USD)price": "0.0001",
+    "dollar_price_change": "-0.0003",
+    "percentage_change": "-75.25%",
+    "market_capitalization": "0",
+    "total_volume_in_all_currencies": "0"
+  },
+  {
+    "symbol": "SLS-USD",
+    "currency": "SaluS USD",
+    "($USD)price": "13.11",
+    "dollar_price_change": "+0.82",
+    "percentage_change": "+6.67%",
+    "market_capitalization": "0",
+    "total_volume_in_all_currencies": "3,851"
+  },
+  {
+    "symbol": "BRC-USD",
+    "currency": "BaerChain USD",
+    "($USD)price": "0.0705",
+    "dollar_price_change": "-0.0084",
+    "percentage_change": "-10.70%",
+    "market_capitalization": "0",
+    "total_volume_in_all_currencies": "0"
+  },
+  {
+    "symbol": "YEP-USD",
+    "currency": "YEPCOIN USD",
+    "($USD)price": "25.54",
+    "dollar_price_change": "+0.02",
+    "percentage_change": "+0.08%",
+    "market_capitalization": "0",
+    "total_volume_in_all_currencies": "0"
+  },
+  {
+    "symbol": "YEP-USD",
+    "currency": "YEPCOIN USD",
+    "($USD)price": "25.54",
+    "dollar_price_change": "+0.02",
+    "percentage_change": "+0.08%",
+    "market_capitalization": "0",
+    "total_volume_in_all_currencies": "0"
+  }
+]
