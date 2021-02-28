@@ -5,13 +5,14 @@ from datetime import date
 class StocksSpider(scrapy.Spider):
     name = 'stocks'
     allowed_domains = ['finance.yahoo.com']
+    start_urls = ['https://finance.yahoo.com/losers']
     today = date.today()
     i = 0
 
-    def start_requests(self):
-        yield scrapy.Request(url='https://finance.yahoo.com/losers',
-                             callback=self.parse,
-                             headers={'Referer': '', 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36'})
+    # def start_requests(self):
+    #     yield scrapy.Request(url='https://finance.yahoo.com/losers',
+    #                          callback=self.parse,
+    #                          headers={'Referer': '', 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36'})
 
     def parse(self, response):
         for row in response.xpath("//table[@class='W(100%)']/tbody/tr"):
