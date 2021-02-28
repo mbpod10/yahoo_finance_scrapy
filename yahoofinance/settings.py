@@ -54,7 +54,8 @@ ROBOTSTXT_OBEY = True
 # See https://doc.scrapy.org/en/latest/topics/downloader-middleware.html
 DOWNLOADER_MIDDLEWARES = {
     'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware': None,
-    'yahoofinance.middlewares.YahoofinanceDownloaderMiddleware': 400,
+    # 'yahoofinance.middlewares.YahoofinanceDownloaderMiddleware': 400,
+    'yahoofinance.middlewares.UserAgentRotatorMiddleware': 400,
 }
 
 # Enable or disable extensions

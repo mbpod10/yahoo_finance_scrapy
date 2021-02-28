@@ -25,6 +25,7 @@ class StocksSpider(scrapy.Spider):
                 'percentage_change': row.xpath(".//td[3]/span/text()").get(),
                 'volume': row.xpath(".//td[6]/span/text()").get(),
                 'market_capitalization': row.xpath('.//td[8]/span/text()').get(),
+                'User-Agent': str(response.request.headers['User-Agent'])
             }
 
         self.i = self.i + 25
